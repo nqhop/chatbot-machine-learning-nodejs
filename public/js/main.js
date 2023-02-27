@@ -14,22 +14,21 @@ const BOT_MSGS = [
 const BOT_IMG = "https://image.flaticon.com/icons/svg/327/327779.svg";
 const PERSON_IMG = "https://image.flaticon.com/icons/svg/145/145867.svg";
 const BOT_NAME = "BOT";
-const PERSON_NAME = "Sajad";
+const PERSON_NAME = "Hop";
 
-msgerForm.addEventListener("submit", (event) => {
-    event.preventDefault();
+// msgerForm.addEventListener("submit", (event) => {
+//     event.preventDefault();
 
-    const msgText = msgerInput.value;
-    if (!msgText) return;
+//     const msgText = msgerInput.value;
+//     if (!msgText) return;
 
-    appendMessage(PERSON_NAME, PERSON_IMG, "right", msgText); // client's message
-    msgerInput.value = "";
+//     appendMessage(PERSON_NAME, PERSON_IMG, "right", msgText); // client's message
+//     msgerInput.value = "";
 
-    botResponse();
-});
+//     botResponse();
+// });
 
 function appendMessage(name, img, side, text) {
-    //   Simple solution for small apps
     const msgHTML = `
     <div class="msg ${side}-msg">
       <div class="msg-img" style="background-image: url(${img})"></div>
@@ -76,20 +75,22 @@ function random(min, max) {
     return Math.floor(Math.random() * (max - min) + min);
 }
 
-
-//my code
 $(document).ready(function () {
 
-    // Place JavaScript code here...
     function searchPartial(form) {
         let formData = $(form).serializeArray();
         console.log(formData);
+        let msgText = formData[0].value;
+        if (!msgText) return;
 
         $.get('/new_message', {
-            candidate: formData[0].value
+            candidate: msgText
         }).then(function (data) {
             console.log('data ', data);
-            $('#search-result').html(data);
+            // $('#search-result').html(data);
+            appendMessage(PERSON_NAME, PERSON_IMG, "right", msgText); // client's message
+            msgerInput.value = "";
+            appendMessage(BOT_NAME, BOT_IMG, "left", data); //bot's mesage
         });
     }
 

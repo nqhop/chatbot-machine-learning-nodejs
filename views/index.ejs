@@ -12,7 +12,7 @@
     <section class="msger">
         <header class="msger-header">
           <div class="msger-header-title">
-            <i class="fas fa-comment-alt"></i> SimpleChat
+            <i class="fas fa-comment-alt"></i> My chatbot
           </div>
           <div class="msger-header-options">
             <span><i class="fas fa-cog"></i></span>
@@ -33,12 +33,12 @@
               </div>
       
               <div class="msg-text">
-                Hi, welcome to SimpleChat! Go ahead and send me a message. 😄
+                Xin chào, tôi có thể giúp gì cho bạn.
               </div>
             </div>
           </div>
       
-          <div class="msg right-msg">
+          <!-- <div class="msg right-msg">
             <div
              class="msg-img"
              style="background-image: url(https://image.flaticon.com/icons/svg/145/145867.svg)"
@@ -46,7 +46,7 @@
       
             <div class="msg-bubble">
               <div class="msg-info">
-                <div class="msg-info-name">Sajad</div>
+                <div class="msg-info-name">Hop</div>
                 <div class="msg-info-time">12:46</div>
               </div>
       
@@ -54,18 +54,19 @@
                 You can change your name in JS section!
               </div>
             </div>
-          </div>
+          </div> -->
         </main>
       
-        <form class="msger-inputarea">
+        <!-- <form class="msger-inputarea">
           <input type="text" class="msger-input" placeholder="Enter your message...">
           <button type="submit" class="msger-send-btn">Send</button>
-        </form>
+        </form> -->
 
-        <form action="#" onsubmit="searchPartial(this);return false;" >
-            <input type="text" name="search" id="search">
-            <button type="submit">Find</button>
-        </form>
+        <form class="msger-inputarea" action="#" onsubmit="searchPartial(this);return false;" >
+          <!-- <input type="text" name="search" id="search"> -->
+          <input type="text" class="msger-input" placeholder="Enter your message..."  name="search" id="search">
+          <button type="submit" class="msger-send-btn">Send</button>
+      </form>
         
       </section>
 </body>
