@@ -1,0 +1,1484 @@
+,user_a,user_b
+0,bạn tên gì?,Mình tên Trường <eos> còn bạn tên gì? 
+1,Tui tên Nam <eos> Bạn học ở đâu?,tui học ở TDTU nè <eos> còn bạn học ở trường nào ?
+2,tui học ở TDTU luôn <eos> Bạn học ngành gì,mình học Công Nghệ Thông Tin
+3,Chuyên ngành gì vậy bạn ?,mình học bên Kỹ Thuật Phần Mềm á <eos> còn bạn học ngành gì ?
+4,mình học Quản Trị Kinh Doanh <eos> Bạn là người ở đâu vậy ?,Mình là người Đồng tháp <eos> bạn biết Đồng Tháp không ?
+5,"Mình biết, Đồng Tháp dưới miền Tây đúng không ?",Đúng rồi đó
+6,"còn mình ở TPHCM luôn nè, mình ở Quận 4 <eos> cuối tuần này bạn có rãnh không ?","cuối tuần này mình rãnh, có chi không bạn ?"
+7,mình tính cuối tuần này rủ bạn đi coffee nè,"ok, được thôi bạn, mà đi quán nào á ?"
+8,đi Phúc Long đối diện trường mình nè,Oh vậy mình đi 9h sáng nha
+9,"được luôn bạn, sáng mình cũng rãnh <eos> bạn thích ngôn ngữ lập trình nào nhất ?",mình hay code JS nhất nè <eos> bạn thích ngôn ngữ lập trình nào nhất ?
+10,"mình thích code Python nhất, tại vì nó ngắn gọn",sao bạn thích JS vậy ?
+11,"vì JS bây giờ phổ biến, code fontEnd hay backEnd đều được",mình cũng hay code fontEnd sài ReactJS nè
+12,còn mình hay sài VueJS <eos> bạn có biết thầy Cường bên khoa mình không ?,"oh, mình có học thầy Cường, thầy đó khá hiền hòa và giảng dạy rất có tâm"
+13,mình học thầy Cường môn ML với NLP nè <eos> sở thích của bạn là gì vậy ?,"mình hay đọc sách, thi thoảng thì chơi game <eos> sở thích của bạn là gì vậy ?"
+14,mình hay chơi thể thao nhất,ra trường xong bạn muốn làm gì ?
+15,"mình muốn làm dev, cụ thể là frontEnd <eos> còn bạn, bạn muốn làm gì sau khi ra trường ?","mình chắc đi theo BA, vì mình mạnh bên phân tích yêu cầu"
+16,bạn hay nghe nhạc của ai vậy ?,"mình hay nghe nhạc của KeShi á <eos> còn bạn, bạn thích nghe nhạc của ai ?"
+17,mình hay nghe nhạc của The Keeknd <eos> Đôi lúc tui còn hay nghe rap,bạn hay nghe rapper nào ?
+18,"mình nghe nhiều lắm, chẳng hạn như lil Peep, savage 21 nè","còn mình hay nghe rap của MCK, Đen"
+19,bạn học đủ chỉ trên trường chưa ?,"chưa bạn, mình còn khoảng 10 chỉ nữa để làm đồ án tốt nghiệp <eos> bạn học đủ chỉ trên trường chưa ?"
+20,"mình đủ chỉ rồi, mình đang làm đồ án tốt nghiệp <eos> bạn thích đi du lịch không >","mình rất thích đi du lịch, nhất là đi nước ngoài"
+21,bạn đi Nha Trang chưa ?,"mình đi Nha Trang rồi, chổ đó khá đẹp và mát mẻ <eos> bạn có biết gì về thể thao điện tử không ?"
+22,mình hay theo dỗi bộ môn Liên Minh Huyềnh Thoại <eos> team LOL nào bạn yêu thích nhât ?,mình thích GAM <eos> còn bạn thích team nào nhất về LOL ?
+23,mình thích SGB <eos> bạn có hay theo dỗi LCK không ?,"có, mình hay theo dỗi team SKT T1"
+24,còn mình theo dỗi team DWG bên LCK,bạn có theo dỗi SEA GAME về LOL không ?
+25,"có, mình sẽ theo mỗi từng trận đấu của GAM <eos> bạn ở trọ hay ở nhà riêng",mình mướn trọ để đi học <eos> bạn ở trọ hay ở nhà riêng
+26,mình có căn chung cư ở Quận 7 nè <eos> hôm này rãnh mình mời bạn vào nhà chơi nhé ?,thế thì quá tuyệt vời <eos> tối mai đi xem phim không bạn ?
+27,phim gì bạn ?,Dr Strange á bạn
+28,mình thích Dr Strange lắm <eos> thế chốt tối mai đi xem Dr Strange nhé,"ok bạn, tối mai mình đi xem phim"
+29,bạn thích uống loại nước uống nào ?,"mình thường uống coffee vào mỗi buổi sáng <eos> còn bạn, bạn thích uống loại nước nào nhất ?"
+30,mình thích uống cà phê đá nhất <eos> bạn có the cho mình follow instagram của bạn được không ?,"được chứ, account tui là quoty"
+31,bạn có thể cho mình follow instagram của bạn không ?,"chắn chắc rồi, account của mình là truongwfngo"
+32,bạn có thể cho mình làm chung nhóm đồ án tốt nghiệp được không ?,chắc chắn là được nha bạn
+33,bạn làm đồ án về chủ đề gì ?,mình làm về hệ thống ecommerce <eos> bạn làm đồ án về chủ đề gì ?
+34,mình chưa chọn được đề tài bạn ơi,
+35,cậu học trường nào ?,tớ học trường Tôn Đức Thắng <eos> còn cậu học trường nào ?
+36,tớ học trường RMIT <eos> trường của cậu có nhiều chương trình đào tạo không ?,trường của tớ có đào tạo chương trình chất lượng cao và tiêu chuẩn 
+37,vậy trường của cậu có bao nhiêu ngành đào tạo ?,trường của tớ 40 ngành đào tạo tiêu chuẩn và 17 ngành chất lượng cao
+38,trường của cậu có thư viện không ?,trường của tớ có thư viện rất to 
+39,cậu thích nghe thể loại nhạc nào nhất ?,tớ thích nghe nhất là pop <eos> cậu thì thích nghe thể loại nào ?
+40,dạo gần đây thì tớ hay nghe nhạc rap <eos> nhưng thể loại tớ thích thì là edm,bài hát edm nào mà cậu thích nhất ?
+41,bài hát edm yêu thích của tớ là Faded <eos> bài hát pop yêu thích của cậu là gì ?,bài hát pop yêu thích của tớ là Sugar
+42,bài Sugar của Maroon 5 đúng không ?,đúng vậy
+43,cậu thích ăn món nào nhất ?,tớ thích ăn phở <eos> còn cậu thích ăn món nào ?
+44,tớ thì thích cơm tấm <eos> còn về đồ uống ưa thích của cậu ?,đồ uống ưa thích của mình là coca
+45,còn đồ uống ưa thích của mình thì là trà sữa,cậu hay uống trà sữa HongKong hay Đài Loan
+46,tớ hay uống trà sữa Đài Loan,
+47,cậu đang làm công việc nào ?,tớ đang làm lập trình viên
+48,cậu làm việc ở công ty nào ?,tớ làm việc ở công ty phần mềm 
+49,công ty của cậu tên gì ?,công ty của tớ tên là FPT
+50,công ty của cậu còn tuyển nhân viên không ?,công ty của tớ đang tuyển chức vụ quản lý nhân sự  <eos> còn cậu làm nghề gì ?
+51,tớ đang làm sửa chữa ô tô,
+52,cậu hay sử dụng thiết bị điện tử nào ?,tớ hay sử dụng điện thoại di dộng <eos> còn cậu hay sử dụng thiết bị điện tử nào ?
+53,tớ cũng hay sử dụng điện thoại di động <eos> cậu sử dụng điện thoại hãng nào ?,tớ xài hãng apple <eos> còn cậu ?
+54,tớ xài samsung <eos> cậu sử dụng chiếc điện thoại này bao lâu ?,tớ sử dụng chiếc điện thoại này được 3 năm rồi <eos> còn cậu ?
+55,tớ sử dụng chiếc điện thoại này được 5 năm ,
+56,Bạn tên gì?,Mình tên Khánh <eos> Còn bạn tên gì? 
+57,Mình là Vũ <eos> Bạn học ở đâu?,Mình học ở đại học Tôn Đức Thắng
+58,Mình cũng vậy,Thế bạn khoa nào?
+59,Mình khoa công nghệ thông tin,Còn mình khoa quản trị kinh doanh
+60,Bạn học chuyên ngành nào của khoa Công nghệ thông tin?,Mình học chuyên ngành Kĩ thuật phần mềm
+61,bạn có ước mơ gì không ?,một công việc và gia đình hạnh phúc
+62,bạn hiện đang sống ở đâu?,tớ sống ở thành phố Hồ Chí Minh
+63,bạn có sở thích nào ?,"tui có nhiều sở thích như đá banh, xem phim, nghe nhạc, đi chơi"
+64,bạn thần tượng người nổi tiếng nào?,mình thần tượng ca sĩ Sơn Tùng MTP
+65,bạn đang đi làm hả?,"không, mình là sinh viên và đang đi học"
+66,Mai ông có rãnh không?,"Có, chi vậy"
+67,"Mai Tiến rủ đánh cầu lông, ông đi không?","Đi, mà mấy giờ?"
+68,7 giờ sáng,Mà đánh ở đâu á?
+69,Công viên tụi mình thường hay ra chơi á,Ok 
+70,Mà mai ông có xe không qua chở tôi đi,"Ừ, để mai tôi qua rước"
+71,Hôm nay ông được mấy điểm văn vậy?,Tôi được 10 điểm á ông
+72,Gì cao vậy,Thế ông mấy điểm?
+73,Tôi có 6 điểm à <eos> Ông có bí quyết học giỏi văn không chỉ tôi với,"Tôi cũng đâu có bí quyết gì đâu <eos> Chỉ là có vốn từ ngữ phong phú, cách quan sát độc đáo với lại đọc thêm nhiều tài liệu"
+74,Chỉ vậy thôi hả,Nhưng cũng phải có sự kiên trì nữa nha
+75,Bạn đã từng rớt môn nào chưa?,Mình từng rớt môn rồi
+76,Trường bạn bự không?,Trường mình là hơi bị bự luôn
+77,Trường bạn top mấy VIệt nam?,Trường mình top 500 thế giới
+78,Bạn học trường nào?,Tớ học đại học Tôn Đức Thắng
+79,Bạn học chuyên ngành nào của khoa Công nghệ thông tin?,Mình học chuyên ngành Kĩ thuật phần mềm
+80,trường bạn ở đâu ?,trường mình ở quận 7
+81,bạn có nợ môn không?,"có, hiện tại nợ vài môn"
+82,Bạn có thoải mái với ngành bạn đang học không?,"Thật sự nhiều lúc khá áp lực, nhưng mình hài lòng về ngành học này"
+83,bạn học giỏi không?,tớ học Không giỏi
+84,Học phí của trường bạn đắt không?,"rẻ lắm bạn ạ, nhưng bạn phải giàu 1 tí"
+85,Bạn có kế hoạch vào kỳ nghỉ lễ chưa?,Tôi chưa có. <eos> Còn bạn thì sao?
+86,Tôi có kế hoạch đi nghỉ ở BoraBora với gia đình.,Bạn có đề xuất nơi nào tốt cho 1 kỳ nghỉ không?
+87,Bạn có thể tới BoraBora giống như tôi. ,Nơi đó ở Pháp nhỉ?
+88,Đúng rồi.,Vậy thì nơi đó khá đắt đỏ so với chi phí mà tôi có thể trả.
+89,Vậy còn đảo Bali thì sao?,Hòn đảo nằm ở Indonesia à?
+90,Đúng vậy.,Nơi đó có đông không nhỉ?
+91,Tôi nghĩ là không. <eos> Bạn cũng có thể thử tới Santorini.,Nơi đó ở đâu vậy?
+92,"Nó nằm phía Nam Hy Lạp. <eos> Tuy chi phí có thể đắt đỏ hơn Bali, nhưng bạn có thể tiết kiệm bằng nhiều cách.",Bạn kể chi tiết hơn đi.
+93,"Vì chúng ta nghỉ lễ vào tháng 9, thời điểm đó Santorini khá vắng khách, thời tiết lúc đó cũng đẹp hơn. <eos> Bạn cũng có thể săn những chuyến bay giá rẻ và sử dụng phương tiện công cộng để di chuyển.",Còn về nơi ở thì sao?
+94,Bạn có thể ở homestay tại khu Imerovigil,Tôi cũng thấy có 1 số đề xuất homestay giá tốt ở làng Oia.
+95,Đó cũng là 1 lựa chọn tốt.,Ở Santorini có điểm du lịch nào hấp dẫn không?
+96,"Bạn có thể ghé thăm các ngôi làng cổ tại đó, chúng đều mang 1 kiến trúc rất riêng của vùng ven biển địa chung hải, hoặc bạn có thể tắm ở biển đỏ và tham quan núi lửa NeaKameni.",Còn về ẩm thực thì sao?
+97,"Ở Hy Lạp nổi tiếng về sữa chua, bạn có thể thưởng thức thêm các món được kết hợp với sữa chua như bánh Gyros, hoặc đơn giản là thưởng thúc hải sản.",Có lưu ý gì khi du lịch tới đó không?
+98,Đó là giờ mua sắm có thể mở khác nhau tuỳ vào các ngày trong tuần. <eos> Nếu bạn đi Santorini thì nhờ bạn mua giúp tôi dầu Olive tươi nhé,"Được thôi. <eos> Còn nơi bạn tới vào dịp nghỉ, nó có gì thú vị không?"
+99,"Đây là 1 hòn đảo du lịch nổi tiếng của Pháp, nơi mà nhiều người nổi tiếng thường ghé thăm.  <eos> Nơi đây cũng có các bãi biển trong xanh như ngọc và các bãi cát trắng.",Tôi nghe nói ở đây có rất nhiều resort 5 sao đúng không?
+100,"Đúng vậy, vì thế nơi đây đắt đỏ",Tuy nhiên dịch vụ nơi này vô cùng tốt đấy nhé.
+101,Còn gì khác nữa không? <eos> Ở đây còn có các dịch vụ lặn biển để tham quan hệ sinh thái quanh đảo.,Nghe thú vị đấy.
+102,Ngoài ra bạn có thể trải nghiệm ẩm thực Pháp ở các nhà hàng nổi tiếng thế giới tại đây. <eos> Nhưng điều tuyệt vời nhất ở đây vẫn là phong cảnh và sự yên tĩnh của nó.,Thế bạn dự tính lú trú tại đâu thế?
+103,Tôi có đặt phòng 3 ngày 2 đêm ở InterContinental.,Có hoạt động nào bạn muốn thử khi tới không?
+104,Nếu được thì tôi muốn lặn cùng với đàn cá mập. <eos> Nó sẽ giúp ích cho bài nghiên cứu về sinh vật biển của tôi.,Chi phí ước tính mà bạn phải bỏ ra là bao nhiêu thế?
+105,Tôi ước tính cả nhà mình đi sẽ tiêu tốn 18 ngàn đô.,Vậy là 6 ngàn đô một người à?
+106,Đúng vậy.,Đúng là đắt thật đấy. <eos> Có phương án nào rẻ hơn không?
+107,"Thông thường khi đi du lịch, việc đi theo tour sẽ tiết kiệm chi phí. <eos> Tuy nhiên hiện tại BoraBora chỉ có tour từ các chuyến du thuyền đi qua địa trung hải thôi.",Nếu vậy thì tôi không thể trải nghiệm tốt được nhỉ.
+108,Tôi đồng ý. <eos> Tuy nhiên việc này giúp bạn tiết kiệm 1 nửa chi phí.,Tôi sẽ cân nhắc việc này vào năm sau.
+109,Ê mậy đi đâu vậy Duy ?,Tao đi chơi với bồ nè <eos> Mày đi chung không ?
+110,Mày đi với bồ kêu tao đi chung chi vậy trời <eos> Tao biết mày không đi tao mới rủ đó . :)),Thằng quỉ này. <eos> Chắc tao đấm mày quá
+111,Haha <eos> Thôi tao đi nhe mậy,Ừa đi chơi vui vẻ đi mày.
+112,bạn tên gì?,Mình tên Long? <eos> còn bạn tên gì? 
+113,Nam <eos> Bạn học ở đâu?,
+114,Nhà bạn ở đâu ?,Nhà mình ở Cà Mau
+115,Quê nhà bạn có đặc sản gì ngon không ?,Có rất nhiều các loại hải sản luôn nhé
+116,Bạn có dự định về quê vào sắp tới không?,Tôi có kế hoạch về quê vào tết sắp tới
+117,Từ đây về quê bạn mất bao lâu?,Từ đây về Cà Mau mất khoảng 10 tiếng nếu đi xe 
+118,Ở quê bạn thường thích làm gì nhất?,Về đó mình thích gặp lại và đi chơi cùng mấy đứa bạn ở quê <eos> Bạn có muốn theo mình về quê mình chơi không?
+119,"Nghe thú vị đó, đương nhiên là muốn về Cà Mau rồi","Vậy sắp xếp công việc đi, rồi cuối tuần mình đi nhé"
+120,Cảm ơn bạn,
+121,Bạn có thích đi du lịch không?,"Có chứ, mình rất thích đi du lịch"
+122,Bạn thích đi nơi nào nhất?,Mình thích đi Nha Trang nhất
+123,Tại sao bạn thích du lịch Nha Trang?,Vì bãi biển nơi đó rất đẹp và nhiều khu nghỉ dưỡng
+124,Bạn có muốn đi du lịch cùng mình không?,"Chắc chắn rồi, nhưng ta sẽ đi đâu?"
+125,"Mình cũng không biết nữa, bạn có thể gợi ý cho mình không?","Chắc có thể là Đà Nẵng, mình nghe nói nơi đó đang hot"
+126,"Được đó, vậy khi nào mình đi?",Chúng ta sẽ đi khi hè đến
+127,Chúng ta sẽ đi bằng cái gì?,Chúng ta sẽ đi bằng máy bay đến đó
+128,Rảnh không bạn?,Rất rảnh nhé
+129,Đi xem phim hay đi chơi không?,Nghe nói CGV có phim mới hay lắm
+130,Mấy giờ đi?,Chắc khoảng 6h tối nay nhé
+131,"Ai mua vé, bạn bao tôi nhé?","Oke, bạn yên tâm tôi sẽ lo a to z"
+132,Xem phim xong rồi mình làm gì?,Đi ăn không? Nghe nói gần đó có nhà hàng mới mở
+133,"Thôi, bận rồi chỉ xem phim thôi",Nếu không rảnh thì hẹn hôm khác mình đi ăn nhé
+134,Bạn đã có người yêu chưa ?,Chưa bạn ơi
+135,Bạn mấy tuổi rồi?,Mình 20 rồi bạn ơi
+136,Bạn có ý định tìm người yêu chưa?,Mình còn phân vân lắm 
+137,Nếu có người yêu thì bạn thích đi đâu vào lúc rảnh?,Mình thích đi ăn 
+138,"Mình cũng thích đi ăn nè, chúng ta hợp nhau đó <eos> Chúng ta có thể làm quen được không?",Cũng được…
+139,Tối nay chúng ta có thể hẹn hò ở nhà hàng nhé,"Được luôn, ngại quá cảm ơn bạn"
+140,Bạn thấy mình thế nào?,"Cũng tạm, không đẹp trai lắm"
+141,Một năm có mấy kỳ nghỉ vậy bạn?,"Ai biết đâu, nhiều vô số kể hahaha"
+142,30/4 với 1/5 năm 2022 là vào thứ mấy vậy bạn?,Vào thứ 7 và chủ nhật đó
+143,Có định đi đâu chơi vào 2 ngày đó không?,"Không bạn ơi, toàn là kẹt xe mà đi đâu hahaha <eos> Thế bạn có đi đâu chơi không?"
+144,Không luôn bạn ơi,2/9 năm nay nghỉ bao nhiêu ngày vậy bạn?
+145,Nghe nói 2-3 ngày gì đó,Bạn định về quê bao lâu?
+146,Chắc sẽ là tầm 4 ngày thôi,"Vậy còn Tết, về quê bạn làm gì?"
+147,"Chúc Tết, nhận lì xì, đi chùa...",Thế còn dịp 20/11 bạn có họp lớp với thầy cô gì không?
+148,"Chắc là không, vì bây giờ ai cũng đều bận cả rồi",
+149,Thầy Cường có đẹp trai không?,Còn phải hỏi nữa sao
+150,Hình như thầy đó dạy môn NLP phải không?,"Đúng rồi, rất dễ hiểu luôn"
+151,Con gà với quả trứng cái nào nào có trước?,Sao mình biết được bạn hahaha
+152,Mình đố bạn biết số bi bằng bao nhiêu?,"Bằng 3.14 chứ nhiêu, dễ ẹc <eos> Mình đố lại bạn H2 cộng O2 bằng gì?"
+153,Bằng H20 chứ gì,Sai bét. HOHO nhé
+154,"Tớ thấy cậu bị mất 1 cái răng , cậu bị ngã cầu thang à ?","Đúng vậy, một câu chuyện buồn"
+155,Cho mình hỏi làm thế nào để thành công ?,Đừng theo mấy động đa cấp lừa dảo là được nhé
+156,What là cái gì ?,What là cái gì !!!!!
+157,Xin chào <eos> mình tên là Khánh <eos> rất vui được làm quen với bạn <eos> Bạn tên gì?,Mình là Minh Anh
+158,Nhà bạn ở đâu?,quê mình ở Nghệ An <eos> hiện ở quận 7 đoạn gần Nhà Bè
+159,vậy à <eos> mình cũng sống ở khu vực đó <eos> bạn sống một mình hay ở cùng với gia đình?,mình ở chung với chị gái
+160,Bạn sinh năm bao nhiêu?,2k2
+161,ê mày,hả?
+162,mai đi xem phim không? <eos> phim mới ra hay lắm <eos> mày thích coi thể loại nào?,phim viễn tưởng đi  <eos> mấy giờ vậy?
+163,chắc tầm 9 giờ <eos> để tao search coi mai CGV chiếu phim gì? <eos> giờ đặt trà sữa uống không?,cũng được đó
+164,mày muốn uống trà gì?,trà sữa gạo nâu thêm trân châu
+165,trên Grab tao đang có mã khuyến mãi,
+166,ê mày <eos> sao hôm nay mày không đi thi? <eos> giám thị gọi tên mày quá trời,ủa <eos> tao tưởng ngày mai chứ
+167,ulatr <eos> rớt môn nha mày <eos> ngày mai còn 2 môn thi nốt <eos> mai mày cần tao gọi mày không?,lòng đau như cắt <eos> hết muốn đi thi luôn
+168,trừa tội thức đêm săn sale,
+169,Hello Phú <eos> lâu rồi không gặp,Có gì không Khoa
+170,giờ m làm gì rồi?,tao đang thử việc tại công ty ABC
+171,sắp tới tao định thành lập công ty  <eos> công ty t còn thiếu trưởng phòng kinh doanh <eos> mày về giúp tao được không? <eos> thù lao trả đầy đủ :),mình hẹn cafe để nói cụ thể hơn đi
+172,ok,
+173,Hú <eos> leo rank không m? <eos> có cao thủ gánh nè,ok <eos> tối leo chứ giờ chơi toàn trẩu tre thôi
+174,tối nay 9h nha,ok <eos> tao cầm Yue <eos> cấm mày cấm con đó của tao
+175,mid của tao mà <eos> mầy đi top đi,vậy mầy lo mà gánh tao nha <eos> nhường mày mid đấy <eos> tao đi rừng
+176,chốt nha,
+177,bạn có crush chưa?,chưa <eos> còn bạn crush ai chưa?
+178,mình có rồi,crush bao lâu rồi?
+179,được 2 năm ròi,"lâu dị, rồi crush có bồ chưa?"
+180,"có rồi, huhu",vậy sao còn crush?
+181,"chưa cưới mà, nào cưới thì hết thôi",
+182,"Dạo này sao rồi, khỏe không?",Cũng như trước thôi <eos> Cậu thì sao có người yêu gì chưa
+183,"Chưa, đang chán đời cậu ơi",Cậu thất tình hả?
+184,Cũng gần như thất tình vậy,"Đang kết nhỏ nào à? <eos> Ai thế, xinh không?"
+185,"Một bạn nữ trong lớp, rất chi là xinh.","Chỉ xinh thôi à, còn gì nữa không mà mày thích?"
+186,"Tính tình nó dễ thương, chăm chỉ học giỏi nữa, hiền khô à.",Uầy con giá thế thì ai chả thích. <eos> Thế làm sao mà chán đời?
+187,Chưa biết cách nào để tỏ tình thôi.,Nó biết mày thích nó chưa ?
+188,Tao chưa nói gì với nó nên nó chưa biết được,"Thế thì cứ bình thường vui vẻ , có dũng khí đã <eos> Tính khi nào tỏ tình?"
+189,Vài ngày nữa,
+190,Chào bạn,Xin chào
+191,Bạn tên là gì ?,Mình tên Tùng <eos> còn bạn tên là gì?
+192,Minh Phương <eos> Bạn sinh viên khoa nào?,Mình sinh viên khoa CNTT
+193,Mình cũng vậy <eos> Bạn là sinh viên khóa mấy vậy?,Mình sinh viên khóa 22
+194,Mình cũng là sinh viên khóa 22,
+195,Tối nay qua có xem Việt Nam đá Sea Games không?,"Không, tối qua tao bận làm bài tập"
+196,"Tiếc thật, Việt Nam đá hay mà mày không xem",Tỉ số bao nhiêu vậy
+197,Việt Nam thằng Indonesia 3 bàn,Quang Hải có ghi bàn không?
+198,Quang Hải không đá Sea Games <eos> Hôm qua Tiến Linh và Hùng Dũng ghi bàn,
+199,Tối nay đi xem phim không bạn?,Xem ở đâu thế?
+200,Lotte Mart Quận 7,Mấy giờ?
+201,7 giờ tối,"Ok, mình đi được <eos> Xem Doctor Strange hả bạn?"
+202,"Không, Mình với Nguyên đi xem Fantastic Beast <eos> Bạn xem phim đó không <eos> Xem thì mình đặt vé chung luôn",Vậy đặt giúp mình 1 vé luôn nha
+203,Đi nhậu không bạn <eos> Tao với Việt mới tìm được quán ốc ngon lắm,Khi nào bạn?
+204,9 giờ tối thứ 7,"Được, quán nào thế"
+205,Đối diện Pattaya,Tao không biết Pattaya chỗ nào cả
+206,Đường D4 gần chung cư Hoàng Anh Thanh Bình,"À, tao biết rồi <eos> Tầm 9 giờ kém tao đến"
+207,Tao mới mở ra skin Yasuo mới đẹp lắm <eos> Solo không?,Tao bỏ Liên Minh lâu rồi
+208,Vậy giờ còn chơi game không,Còn chứ <eos> Mấy game AAA
+209,Giàu vậy <eos> Mua game chơi luôn à,Tao chơi game Crack thôi
+210,Có game nào hay giới thiệu tao với nha <eos> Chứ Liên Minh chời nhiều cũng chán,Tối rảnh tao gửi cho mày link tải Game này chơi
+211,Sáng mai bạn rảnh không chỉ mình bài này với,Môn gì vậy bạn
+212,Môn Xác suất thống kê <eos> Bài 4 trong đề cương thầy giao ấy,"Được, mai mình hẹn gặp ở đâu vậy?"
+213,Thư viện trường mình nhé,"Ok, tầng hầm thư viện nhé <eos> Mình không có ổ khóa nên không vào thư viện được"
+214,Mình dư 1 ổ khóa <eos> Có gì 2 đứa mình để đồ chung rồi lên tầng 2 ngồi cho mát,
+215,Ngày mai đi bơi không bạn,Mấy giờ vậy bạn?
+216,"Sáng thì 7 giờ 30 phút, Chiều 4 giờ 30 phút","Sáng tao học rồi, Chiều 5 giờ có trận bóng trong trường <eos> Hồ còn ca bơi khác không bạn?"
+217,Vậy thì mình đi 2 giờ 30 phút nha <eos> Hơi nắng nhưng còn mỗi giờ đó thôi,"Ok, vậy ngày mai qua đón mình đi với nhé"
+218,Hôm nay em có gì vui không?,Hôm nay em đi shopping
+219,Đi ở đâu?,"Nice Store, Trần Hưng Đạo, Quận 5"
+220,Gần công ty anh,Anh đến đó bao giờ chưa?
+221,Chưa <eos> Anh không biết store đó,"Bữa nào anh ghé thử, ở đó nhiều đồ đẹp "
+222,Ok em,
+223,Nghe nói bạn mới chuyển ngành à,"Uk, mới chuyển được 1 tuần trước"
+224,Chuyển qua ngành gì?,Quản lý du dịch
+225,Ngành đó cũng nhiều tiềm năng,"Uk, mình tìm kiểu nghĩ lắm mới quyết định đó"
+226,Chúc bạn qua ngành mới gặp nhiều thuận tiện nhé,Cảm ơn bạn nhiều
+227,Có chứng chỉ Toeic chưa bạn?,Chưa. Mình đang có ý định ôn để thi nè
+228,Dự định thì khi nào vậy?,Chắc bắt đầu từ tuần sau <eos> Còn bạn thì sao? Có chứng chỉ chưa?
+229,"Mình cũng chưa, đang kiếm bạn để ôn cùng",Vậy mình với bạn cùng ôn
+230,"Ok, Bạn có muốn kiếm lớp ôn luyện không? Hay tự ôn",Mình nghĩ tụi mình tự ôn cũng được
+231,"OK, vậy để mình sắp xếp thời gian, bắt đầu từ tuần sau nha.","OK, để mình tìm tài liệu"
+232,Cậu tên gì?,Mình tên là Khải <eos> còn bạn tên gì? bạn ở đâu?
+233,Mình tên là Khanh. <eos> Mình ở thành phố Hồ Chí Minh? <eos> Bạn học trường nào?,Mình học trường ĐH Tôn Đức Thắng.
+234,Bạn đến từ đâu?,Mình đến từ tỉnh Quảng Ngãi.
+235,Rất vui khi được gặp cậu.,
+236,Bạn biết chơi bóng rổ không?,Mình không biết chơi bóng rổ. Còn bạn?
+237,"Mình cũng vậy, nhưng mình biết bơi.","Trùng hợp quá, mình cũng biết bơi."
+238,Bạn có thể bơi như thế nào?,"Mình biết bơi ếch, bơi sải, bơi ngửa."
+239,Bạn giỏi quá. Mình chỉ biết bơi sải. <eos> Bạn bơi được quãng đường bao xa?,Mình bơi sải được 500m còn bơi ếch thì ít hơn.
+240,Cuối tuần này cậy chỉ mình bơi sải với nhé.,Ok bạn.
+241,"Lâu quá không gặp, mày khỏe không?","Ừ, tao khỏe. Cuối tuần đi xem phim không mày?"
+242,Phim gì? hay tao mới đi nha.,"Tao không biết, đến rạp có phim gì xem phim nấy."
+243,Thế thôi tao không đi đâu.,"Thế mày chọn phim đi, mày khó tính thế!"
+244,"Đi xem Doctor Strange đi, phim mới ra hay lắm đó.","Cũng được, nhưng bao giờ đi?"
+245,Chủ nhật như mày nói hoặc thứ 7.,"Ok, thống nhất chủ nhật."
+246,"Ê mày, lễ Quốc khánh mày có dự định gì chưa?","Dự định gì, du lịch à?"
+247,"Ừ, đi du lịch ấy.","Không, tao ở nhà chứ không đi đâu hết."
+248,"Sao thế, đi Phú Quốc với tao không.",Phú Quốc tao đi rồi.
+249,"Đi chung cho vui, tao có mã giảm giá cho tour này nè.","Trông có vẻ hời đấy, vậy tao sẽ đi. <eos> Nhưng mà đi mấy ngày mấy đêm"
+250,Đi 3 ngày 2 đêm.,"Ok, mày đặt vé đi, tao sẽ chuyển lại cho mày."
+251,Ok.,
+252,"Cuối tuần này khai trương nhà hàng mới nè, mày đi ăn không?","Ở đâu, khuyến mãi thế nào?"
+253,"Ở bên quận 1 ấy, giảm 50%.",Nhưng mà nhà hàng gì? có đồ nướng không.
+254,"Có nhé. có bò nướng đúng món mày thích luôn. <eos> Nhưng mà đi sớm nha, 7 giờ tối có mặt.","Ừ, đi sớm chứ hết chỗ. <eos> À mà mày bao tao nha, tháng này hết tiền rồi"
+255,"Ok luôn, tao trả cho.","Ok, cảm ơn mày nhiều"
+256,"Chào cậu, cuối năm nay cậu tốt nghiệp hả?","Ừ, cuối năm nay, nhưng mình đi làm được một năm rồi?"
+257,Thật tuyệt. Mình cũng đã đi làm rồi.,Cậu làm ở đâu và việc gì?
+258,"Mình làm ở quận 3, mình làm lập trình viên <eos> Còn cậu?","Mình làm việc tại nhà, mỗi tuần lên công ty báo cáo một lần thôi."
+259,Cậu làm công việc gì mà tốt thế?,"Mình cũng làm giống cậu, tuy nhiên chính sách công ty mình khác thôi. <eos> Cuối tháng này sẽ có một đợt tuyển dụng, nếu cậu thích có thể ứng tuyển nè."
+260,"Cảm ơn cậu, mình rất thích công việc này, mình sẽ ứng tuyển.",
+261,Xin chào <eos> Mình tên là Long <eos> Bạn tên gì?,Tên mình là Phương
+262,Bạn là người miền bắc à?,Đúng rồi <eos> Mình là người Hải Phòng
+263,Bạn đang ở trọ gần trường à?,Mình đang thuê một căn hộ ở khu Sunrise City quận 7
+264,Bạn ở đó một mình à?,"À không, mình ở cùng với chị của mình"
+265,"Ê mày <eos> Vào game lẹ, đủ 4 đứa rồi thiếu mày thôi",Chơi trước một trận đi <eos> Tao đang xem phim rồi
+266,Mày coi phim thì lát vô chỉ có đánh support thôi ,Mày chắc chưa tao mà đánh support thì không ai gánh mày đâu
+267,Khỏi lo hôm nay mời được tay to gánh rồi,Ghê ghê mày tìm ở đâu được người gánh cục tạ như mày thế
+268,Thì lên mấy cái nhóm game trên discord thôi <eos> Lúc người ta đánh đội thiếu người thì đăng tìm thêm trong nhóm <eos> Chơi thấy hợp thì kết bạn thôi,Ok vậy cứ chơi một trận đi rồi tao vào
+269,Nghe nói mày mê tam quốc chí lắm phải không?,"Ừ, nhà ba đời fan tam quốc chí"
+270,Tao mới tìm ra một bộ phim mới rất hay về Gia Cát Lượng mày muốn xem không?,Gì nay mày cũng coi phim về tam quốc nữa à
+271,Cũng không hẳn là về tam quốc đâu <eos> Mà cuối cùng mày coi không thì tao gu,Rồi gửi đây coi
+272,Paipiri Koumei - Khổng Minh thích tiệc tùng,WTF phim gì đây?
+273,Đơn giản là Khổng Minh đến tương lai làm người đại diện cho ca sĩ <eos> Áp dụng các kế sách xưa vào để giúp ca sĩ,Nghe nó khá nhảm đấy
+274,"Tin tao đi, cứ xem thử đi ",Nghe khá hay đấy khi nào rảnh thì xem thử
+275,Sáng mai lên trường học nhóm ôn thi không?,Phương pháp tính chứ môn nào <eos> Đợt này học chung có môn đó thôi
+276,Môn đó thì chịu vào học nghe chẳng hiểu gì,Không hiểu mới đi ôn thêm chứ <eos> Mời được một ông anh học qua môn này điểm khá cao chỉ bài <eos> Sao đi không? Không hiểu cũng cố học thuộc vài dạng toán chứ
+277,Lên thư viên trường phải không?,Ừ khoảng ca 2 lên là ổn
+278,Lùi qua ca 3 được không chứ ca 2 tao còn học,Vậy để nhắn hỏi anh kia trước <eos> OK thì tao nhắn lại cho <eos> Không thì ca 3 tao chỉ lại mày những gì hiểu được
+279,Lễ này có kế hoạch gì chưa?,"Chưa, lễ này mày tính về quê à?"
+280,"Không lễ này tao không tính về quê <eos> Tao có nhóm bạn đang tính đi Đà Lạt, mày tính đi chung không?",Mày đi với bạn mày kêu tao theo chi?
+281,Không phải mày đang buồn vì 20 tuổi đầu chưa có mảnh tình à? <eos> Nhóm này có nhiều chị em còn độc thân đó,Sao mày không nói sớm?
+282,Vậy cuối cùng có đi không?  <eos> Lên đây có có khi làm quen được với bạn nào,Đi chứ sao không
+283,"Đi thì nhớ chuẩn bị tiền, đồ đạc <eos> Lên đó chia tiền phòng",
+284,"Ê mày, tao mới tìm được một tiệm đồ nướng đang có giảm giá lớn đó <eos> Tối nay đi không?",Tối nay chắc không được rồi <eos> Tối nay tao có hẹn đi ăn với gia đình rồi
+285,Vậy mai được không? Mốt là hết khuyến mãi rồi đó,Mai chắc là được đó
+286,À mà mày bao tao bữa này nhé tối nay đi ăn là tao hết tiền rồi,Cũng được tao vừa nhận được lương tháng này <eos> Vậy mai tầm 6h đi nhé <eos> Tao sợ mai ngày giảm giá cuối rồi nó đông
+287,OK đi sớm cũng được,
+288,Nam ơi chiều qua sân quận 7 đánh cầu lông với tui nha.,"oke ông ơi, chiều mấy giờ á"
+289,5 giờ tới 7 giờ được không ông <eos> đánh xong mình đi ăn luôn,"sớm hơn tí đi, 4 rưỡi tới 6 giờ được không <eos> đánh xong nghỉ ngơi nửa tiếng rồi đi ăn"
+290,"hợp lý á, vậy chốt 4 rưỡi tới 6 giờ nha","oke, mà vợt ai người đó mang đúng không"
+291,"tui mới mua bộ vợt mới toanh, để tôi mang vợt cho ông mang lốc cầu thôi là được rồi","oke ông, tui hiểu rồi, chiều gặp lại."
+292,"Sếp mới giao nhiệm vụ xuống kìa, bà kiểm tra chưa","Vậy hả, để tui mở mail check thử <eos> Ủa bà ơi sao tui k có mail phân công, có khi nào sếp quên tui không ta"
+293,"à, hôm nay sếp phân công thông qua ứng dụng quản lý công việc á, bà kiểm tra thử","trời ơi sao đùng cái sếp đổi công cụ vậy, bình thường vẫn thông báo qua mail nhóm mà"
+294,"sếp có gửi mail thông báo về việc thay đổi công cụ đó bà, kiểm tra lại đi chứ nói bậy bạ sếp buồn","à đây rồi, sếp có gửi ngày hôm kia <eos> nhiều mail quá bị trôi mất tiêu hic"
+295,"thôi nhận được việc rồi thì làm đi cho kịp tiến độ, tui làm luôn đây","ok ok, cảm ơn bà nhắc nhở nha <eos> chiều tan làm tui mời đi cà phê nha"
+296,"bạn ơi tôi mới đi xem người nhện phần 3 về, bạn xem chưa",tôi cũng mới xem ngày hôm qua bạn
+297,trời ơi phim hay xỉu,"hahaha, có cái khúc mà 3 người nhện xuất hiện á bạn, trong rạp hò hét kinh khủng luôn"
+298,"trời ơi tính ra khúc đó là ăn tiền nhất phim mà, không hét sao được <eos> khúc ông andrew cứu MJ cũng cảm động nữa","đúng luôn bạn, không cứu được em ở vũ trụ này, anh cứu ở vũ trụ khác hahaha <eos> nghe nói hình như người nhện còn ra thêm phần nữa á bạn, tới lúc đó nhớ đi coi chung á"
+299,"được luôn bạn, bạn bao là đi đâu tôi cũng đi mà <eos> nhưng mà chờ có phần mới cũng hơi lâu, có khi còn không có luôn á chớ","thôi kệ bạn, cứ chờ thôi, ra là coi hahaha"
+300,Mai sáng tui bắt đầu làm,"Tui cuối tuần mới làm được, đi ship cả ngày "
+301,Shipper hả ông <eos> Mưu sinh à?,Ừ <eos> Kiếm thêm thu nhập
+302,Ưa thì cứ sắp xếp làm thôi <eos> Còn 1 tháng lận mà <eos> Quan trọng <eos> Là khúc trả lời câu hỏi,Ừm
+303,Phần tui thì tui nắm rõ rồi diễn đạt không vấn đề <eos> Tui đang lo cho mấy ông hơn á,:)) <eos> Mà câu thứ 2 hỏi rộng ra mới sợ <eos> Chứ hỏi trúng chủ đề của mình thì sợ gì ông?
+304,Ừ <eos> Phần đứa nào đọc không hiểu thì nhớ note kế bên nha,Oke ông <eos> Mà <eos> Nói chung tự tin lên đi có anh em hỗ trợ
+305,Đương nhiên rồi,
+306,Môn này cuối kì bao nhiêu % nhỉ?,0.5 <eos> Đó giờ vẫn vậy mà ông
+307,Có môn cuối kỳ 70% nha,Môn nào vậy? <eos> Lần đầu nghe đó
+308,Môn hệ thống thông tin doanh nghiệp gì á <eos> Bạn tui nó đang học,À môn đó tui chưa học qua
+309,Cuối kì làm cái bài tập lớn thiế kế 70%,Nghe nói khó lắm
+310,Khó như chó ấy,Yeah bạn tui có học qua review rồi <eos> Né hết mấy môn có liên quan đến doanh nghiệp <eos> Thôi coi như trải nghiệm đầu đời
+311,Haha,
+312,À mà mày còn chơi Liên quân không?,Còn <eos> Mới chơi lại
+313,Tao cũng mới chơi lại <eos> Lạ lẫm vãi <eos> Nick ít tướng nữa chứ khổ vl,Nick tao sắp full tướng rồi <eos> Nick cũ mày đâu
+314,Cho rồi <eos> Vô làm một ván,Thôi tao đi ngủ <eos> Mai còn đi làm
+315,Chán thế,
+316,Cái khó là mình phải làm 100% tiếng anh,Đâu ra vụ này vậy?
+317,Mình thấy mấy khóa trước nó làm Tiếng Anh,Thầy có yêu cầu đâu <eos> Với lại <eos> Khóa trước vẫn có bài tiếng Việt mà
+318,Ok vậy thì làm tiếng Việt <eos> Nhưng là phải dịch cái template,Template chỗ nào để tiếng Anh được thì để nguyên <eos> Ý là mấy cái file doc á <eos> Tạm thời trước mắt cứ như vậy đã
+319,Oke,
+320,Trên Sài Gòn có mưa không bro? <eos> Chiều tối chỗ em đều mưa bro à,Có mưa <eos> Mất điện nữa <eos> Mới có điện lại <eos> Không là đi ăn bún đậu rồi
+321,Giờ đi ăn luôn đi <eos> Hay order rồi ship về trọ ăn,"Thôi, tốn tiền <eos> Với lại nấu rồi"
+322,Nấu gì vậy?,Cơm
+323,Gì nữa? <eos> Đồ ăn cùng cơm <eos> Kể,Thịt chó
+324,Xạo chó,Haha
+325,Ăn rồi nghỉ ngơi đi nhé <eos> Em lát chắc làm tí bài tập đây,Oke bro
+326,Bạn thường xem những loại phim nào?,Tôi rất thích xem thể loại phim kinh dị.
+327,Kinh dị sao? Bạn cho tôi một ví dụ được không?,Zodiac là một trong những phim mà tôi yêu thích. <eos> Zodiac là phim nói về một kẻ giết người hàng loạt ở những 70.
+328,Zodiac? Bạn thích điểm gì về bộ phim đó?,Phim đó cho tôi cảm giác như mình là một phần của thế giới và thời đại đó.
+329,Bạn cảm thấy như là một phần của thế giới đó à?,"Đúng vậy, nó rất là hấp dẫn."
+330,"Nếu như bạn là một nhân vật trong phim, bạn nghĩ bạn sẽ là ai trong đó?","Có vẻ là nhân vật chính, Robert Graysmith, chỉ vì anh ta khó xử và vụng về. <eos> Vì vậy mà tôi đoán đó là người mà tôi cảm thấy gần gũi nhất."
+331,"Xin chào, Hà, tôi lâu lắm rồi không gặp cậu. <eos> Cậu khỏe không?","Mình khỏe, cảm ơn. <eos> Cậu thì sao?"
+332,Mình rất tốt. <eos> Trông cậu gầy hơn lần cuối mình gặp đấy.,Cậu nói đúng.  <eos> Nhưng nó khiến mình thấy khỏe khoắn.
+333,"Rất vui khi nghe vậy.  <eos> Cậu giữ gìn sức khỏe nhé, Hà.","Cậu cũng vậy, Huy."
+334,Thật tuyệt khi đi biển vào cuối tuần này.,Thời tiết sẽ như thế nào nhỉ? Tôi có thể muốn đi quá.
+335,Thời tiết được cho là ấm áp cuối tuần này.,Vậy thời tiết trên bãi biển sẽ tốt đúng không?
+336,Tôi nghĩ vậy.,Sẽ không tốt nếu trời trở lạnh hơn vào cuối tuần này.
+337,"Tôi rất mong chờ chuyến đi này, tôi hy vọng nó sẽ ấm áp.","Thời tiết ở Cát Bà rất không chắc chắn, không thể biết chuyện gì sẽ xảy ra."
+338,Tôi biết. Mỗi ngày thời tiết có vẻ đều khác nhau.,Tôi sẽ thích nó nếu nó không luôn khó đoán như vậy. <eos> Điều đó sẽ giúp chúng tôi dễ dàng hơn trong việc lập kế hoạch.
+339,Tôi biết. Mọi thứ sẽ dễ dàng hơn khi bạn biết thời tiết sẽ như thế nào.,
+340,Sở thích của cậu là gì?,"À, tớ thích âm nhạc và nấu ăn. Còn cậu thì sao?"
+341,Tớ cũng thích âm nhạc. <eos> Tớ còn rất thích tiểu thuyết nữa.,Thật thú vị! <eos> Mình cũng đã từng sưu tầm tiểu thuyết đấy.
+342,Thật sao?,"Ừ, Bạn thích cuốn tiểu thuyết nào."
+343,Tôi thích tiểu thuyết Black Mass. <eos> Bạn biết nó chứ?,"Tất nhiên, nó đã được nguyển thể thành phim."
+344,Cậu có muốn xem cùng tôi không?,Hay quá
+345,"John, bạn đã xem thời sự ngày hôm nay chưa?","Chưa, có chuyện gì xảy ra không?"
+346,Có một trận động đất lớn ở San Diego.,Ôi! Chúa ơi!
+347,Tổng thống có nói về tin tức này trước đó,Có ai bị thương không?
+348,Họ nói có hai người bị giết.,"Ôi, thật là tồi tệ."
+349,"Vâng, tin không tin bạn chưa từng nghe về nó đấy. <eos> Nó đã nói trên CNN cả ngày.","Ồ, tôi không xem TV thường xuyên."
+350,Vậy là bạn không xem thời sự?,"Không, tôi thường đọc tin tức trên mạng, nhưng tôi không có thời gian để bật máy tính của mình ngày hôm nay."
+351,Môn thể thao yêu thích của bạn là gì?,Tôi thích bóng rổ.  <eos> Tôi xem các trận đấu trên TV mọi lúc
+352,Ai là đội yêu thích của bạn?,Boson Celtics.
+353,Họ có thực sự tốt trong năm nay không?,Vâng. Bạn có thích họ không?
+354,Vâng. Mọi người ở đây cũng vậy. <eos> Bạn có nghĩ rằng họ sẽ giành chức vô địch năm nay không?,Cũng có thể. Họ có một số cầu thủ thực sự giỏi.
+355,Bạn đã xem trận đấu tối qua?,"Một chút, không phải toàn bộ. Tôi đã xem nửa sau và tôi thấy một số điểm nổi bật trên mạng."
+356,"Đó là một trò chơi tuyệt vời, phải không?",Vâng. Bạn có biết ai là người họ chơi tối mai không?
+357,Tôi nghĩ họ chơi với LA.,Đó sẽ là một trận đấu khó khăn. LA có một đội ngũ tốt.
+358,"Dorothy, kế hoạch Giáng sinh của bạn là gì vậy?","À vâng, sắp đến Giáng sinh rồi phải không? <eos> Tôi không chắc chắn tôi làm những gì?"
+359,"Chà, nếu bạn không có kế hoạch, gia đình bạn có thể ăn tối tại nhà tôi.","Bạn thật tốt, cảm ơn nhé.  <eos> Bạn đã mua sắm xong chưa?"
+360,"Chưa, tôi vẫn phải làm điều đó. ",Tôi nghĩ rằng tôi sẽ đi đến trung tâm mua sắm vào cuối tuần này. <eos> Sẽ rất đông tại trung tâm mua sắm. Bạn nên mua sắm trực tuyến.
+361,"Bạn đúng đấy. Gia đình tôi rất thích đọc sách, vì vậy tôi có thể nhận được tất cả những món quà từ Amazon.com.",Bạn nghĩ gì bạn sẽ tặng gì cho vợ của bạn?
+362,Có lẽ là một cuốn tiểu thuyết lãng mạn.  <eos> Có vẻ như cô ấy luôn đọc một trong những thứ đó.,"Bạn có thể nghĩ rằng bạn nên mua cho cô ấy thứ gì đó đắt hơn một chút, như đồ trang sức hoặc có thể là một máy tính mới?"
+363,Có lẽ bạn nói đúng.  <eos> Rất khó mua quà tặng. <eos> Tôi nghĩ rằng vợ tôi có tất cả mọi thứ.  <eos> Có lẽ tôi chỉ nên hỏi cô ấy.,
+364,"Này John, tôi có thể nói chuyện với bạn một phút được không?",Có chuyện gì thế?
+365,Tôi muốn cho bạn biết về một câu lạc bộ sách mà tôi đã tham gia vài tháng trước.  <eos> Tôi biết bạn đã đọc rất nhiều nên tôi nghĩ bạn có thể muốn đi cùng tôi vào tháng tới.,"Ồ, nghe có vẻ vui. <eos> Khi nào nhóm gặp nhau?"
+366,Thường là thứ bảy cuối cùng của tháng lúc 9:30 tối. Có quá muộn không?,"Không, tôi nghĩ rằng sẽ ổn.  <eos> Bạn nói gì trong nhóm?"
+367,"Chà, mỗi tháng chúng tôi chọn một cuốn sách mới và sau đó trong cuộc họp tiếp theo, hãy đọc nó.",Bây giờ bạn đang đọc sách gì vậy?
+368,Người thả diều,Tôi đã nghe nói về cuốn sách ấy. Nó như thế nào?
+369,Nó là một cuốn sách hay. Tôi gần như đã đọc hết.  <eos> Cuốn sách kể về một cậu bé lớn lên ở Afghanistan trong những năm 1980. Nó gọi là Người thả diều vì nhân vật chính tham gia một cuộc thi thả diều.,Nghe thật hấp dẫn. Tôi rất muốn đến.
+370,"Tuyệt. Cuộc họp tiếp theo sẽ diễn ra trong hai tuần nữa, vì vậy bạn vẫn có thời gian để đọc sách.",
+371,Bạn có muốn du lịch với tớ không?,"Tất nhiên rồi, nhưng chúng ta sẽ đi đâu?"
+372,"Một chuyến du lịch tại Đà Lạt, bạn nghĩ sao?","oh tuyệt vời, mình rất thích đi Đà Lạt <eos> Khi nào chúng ta sẽ đi?"
+373,"Chúng ta sẽ đi vào khoảng tháng 6, thời tiết lúc đó rất đẹp",Mình cần phải chuẩn bị bao nhiêu tiền để đến đó?
+374,Tớ nghĩ khoảng 5 triệu là đủ rồi <eos> Mình sẽ đi bằng xe khách tới đó ,"Okay, để mình tìm một homestay nào đó thật đẹp và đặt trước "
+375,"Nghe hay đấy, có gì mình sẽ liên lạc cho cậu sau",
+376,"Tớ có 2 vé xem phim, cuối tuần bạn có rảnh không?","Xem phim, nghe hay á, cuối tuần này mình rảnh <eos> Mà bạn tính xem phim gì?"
+377,"Mình đi xem phim Doctor Strange, bạn thích không?",Mình cực kì thích phim của Marvel <eos> Mình sẽ đi vào lúc mấy giờ?
+378,"Phim sẽ bắt đầu chiếu vào lúc 17 h, ở rap lotte cinema Quận 7 <eos> Mình sẽ qua đón bạn lúc  bốn rưỡi","Tuyệt vời, khi nào qua gọi tớ"
+379,Tớ sẽ liên lạc cho cậu sau,
+380,Thời tiết Sài Gòn lúc nào cũng nóng nực khó chịu bực mình quá,"Do bạn không phải người ở đây, nên chưa quen á mà"
+381,"Sống trên Đà Lạt mười mấy năm rồi, tớ đã quen với khí hậu trên đó ","Tớ thích Đà Lạt lắm, kể cho tớ nghe một vài thứ ở Đà Lạt đi"
+382,"À thì khí hậu trên đó mát mẻ, thu hút nhiều khách du lịch tới  <eos> Ở đó có nhiều địa điểm du lịch, khu vui chơi <eos> Đặc biệt có nhiều vườn hoa, nhiều trái cây ngon","Nghe thích thật, có dịp cậu dẫn tớ đến đó nhe"
+383,"Khi nào cậu rảnh, tớ sẽ dẫn cậu đi một vòng quanh Đà Lạt",
+384,Bạn đã xem thời sự ngày hôm nay chưa?,"Chưa, có tin gì nóng không?"
+385,Có một trận động đất lớn ở San Diego,Ôi điều đó thật tệ <eos> Chính phủ có báo trước cho người dân để họ phòng tránh không?
+386,"TV không nói về điều đó, nhưng có rất nhiều người bị thương do động đất ",Tội nghiệp cho người dân ở đó 
+387,Bạn thích môn thể thao nào?,Tớ rất thích môn đá bóng
+388,Bạn có thường xuyên đá bóng với bạn bè không?,Tớ hay đá bóng vào những ngày cuối tuần <eos> Ngoài ra tớ cũng có tham gia câu lạc bộ đá bóng ở trường nữa 
+389,"Thật tuyệt, tớ cũng rất thích đá bóng  <eos> Khi nào đi đá cậu rủ tớ tham gia được không?","Được á, tớ sẽ mời cậu tham gia, chơi chung cho vui"
+390,Công việc mong muốn của bạn là gì?,Tôi hiện tại đang là một giáo viên Tiếng Anh
+391,Bạn cảm thấy thế nào về công việc mình đang làm?,"Mọi người nghĩ trở thành giáo viên rất dễ và cũng rất nhàm chán <eos> Bản thân tui thấy nghề này rất hay và ý nghĩa  <eos> Giúp người khác học, tiếp cần nhiều về Tiếng Anh, giúp họ có công việc tốt sau này"
+392,Nghề nào cũng có ý nghĩa của riêng nó <eos> Bạn hãy cố gắng theo đuổi đam mê thì chắc chắn sẽ thành công,
+393,"Chào bạn, mình có thể giúp đỡ nhau trong học kì này nha <eos> Mình tên An, rất vui được làm quen với bạn","Ừ, chào bạn, mình tên Minh "
+394,Bạn sống gần đây à?,"Mình sống ở Lâm Đồng, mình đang trọ bên Quận 7 <eos> Còn bạn thì sao?"
+395,"Mình sống ở TP từ nhỏ rồi, hiện đang bên quận 5",từ đó đến trường có xa không?
+396,Mình đi nửa tiếng là tới ,"Tiện ghê, tính ra cũng gần đây"
+397,"Chào bạn, không biết bạn tên gì?","Chào nha, Mình tên Hiếu thế còn bạn?"
+398,Mình tên là Minh,Thế minh học trường nào thế?
+399,Mình học Đại học Nguyễn Tất Thành,à vậy mình cũng học gần trường của bạn đấy
+400,vậy hả? Thế bạn học trường gì?,Mình học Đại học Tôn Đức Thắng
+401,Uầy thế thì gần thật. Hân hạnh được làm quen,Mình cũng thế. Hân hạnh được làm quen
+402,Chào ông nha. Tui thấy ông mặc đồ thể dục TDTU không biết phải bạn học TDTU không?,Đúng rồi ông tui học TDTU
+403,À tui có vấn đề này cần hỏi á. Không biết gần đây có rạp chiếu phim nào ko,Có chứ ngay Lotte Mark á có rạp chiếu ở Tầng 3 á
+404,À cảm ơn ông nha. Tại đang muốn đi xem Dr Strange 2 á ông có thích xem không,À có Tui mê Strange cực luôn mà vẫn chưa có dịp đi xem.
+405,Không sao thế giờ ông có rảnh không đi xem với tui. Hiện tại tui cũng đi xem 1 mình mà ở đây lạ quá,À cũng được hôm nay thứ mấy nhỉ
+406,À nay thứ 5 hình như các rạp giá vé được giảm 1 nửa á,Uầy thế thì tốt quá thế tui với ông đi xem đi tui nghe nói bộ đấy hay cực luôn
+407,Ừm tui cũng nghe bạn bè nói về bộ đấy hay lắm không được bỏ lỡ.,Thế không biết ngoài thích xem phim ra bạn còn có sở thích gì không nhỉ
+408,"Mình á? Ngoài xem phim còn đọc sách nè, nghe nhạc và đặc biệt là thích chơi game luôn",Game. Bạn thích chơi game gì tại tui cũng hay chơi game lắm có thể gọi là nghiện luôn
+409,"Game tui chơi nhiều lắm như ROV, LMHT, vài game mobile nữa",Tui có chơi LMHT á có dịp b cứ tìm tên như này để kết bạn chơi cùng nhá
+410,Oke luôn được thế thì hay quá.,Cũng tiện là tui cũng ít có bạn chơi cùng lắm nên nhớ kết bạn với tui nha
+411,bạn đã có người yêu chưa ? ,mình có người yêu rồi
+412,bạn và người yêu đã quen được bao lâu rồi ? ,Mình với người yêu quen cũng được 2 năm rồi
+413,hai người có đang sống với nhau không ?,Không tụi mình ở trọ nhưng 2 nơi khác nhau vì 2 đứa học khác trường á
+414,bạn đã gặp người yêu như thế nào ?,Thì người yêu mình là bạn thân hồi năm cấp 3 đến giờ á
+415,bao lâu thì cậu hẹn hò với người yêu ?,Quen tầm 1 năm thì mình với người yêu mới hẹn hò
+416,Lần cuối bạn có người yêu là khi nào?,Hình như là 3 tháng trước mình vừa chia tay người yêu quen tầm 1 năm
+417,Bạn có crush ai không không? ,Có chứ Mình crush bạn kia kìa bạn đấy là bạn thân của tui luôn mà không dám nói kkk
+418,bạn có thể nói crush bạn là ai không?,Tất nhiên là không rồi
+419,Bạn có muốn đi đâu chơi với người yêu không?,Nhiều nơi luôn là đằng khác
+420,Hè này bạn có định đi đâu chơi không?,Mình á có mình định đi vũng tàu chơi 1 chuyến vì lâu rồi chưa ra đấy
+421,Vũng tàu á mình cũng thích đi lắm nhưng chưa có dịp,Thế hè này bạn có bận không đi cùng mình cho vui
+422,Mà thế bất tiện lắm\,Khong sao dù gì tụi mình đi đông lắm kiểu gì cũng còn trống xe
+423,Trống xe? Các bạn đi bằng xe máy à,Đúng rồi du lịch đi xe máy mới vui chứ đi xe khách chán lắm
+424,Được thế thì hay quá mình cũng muốn trải nghiệm thử 1 lần,Đúng rồi đời sinh viên không thử phí lắm. Thế hè này dự tính đầu tháng 7 là đi á
+425,Đầu tháng 7 á? Để xem hình như mình bận về quê thăm ông ở tận đà lạt lận,Thế tiếc quá tụi tui xác định là đầu tháng 7 đi định rủ đông đông đi cho vui mà bạn bận rồi chắt k đi được
+426,Ừm tiếc thật thế hẹn các bạn vào dịp khác nhá,Ừm dịp khác vậy thế tháng 8 tụi tui có dịp đi Đà lạt thay đổi không khí bạn đi không?
+427,Tháng 8 á được chứ tháng 8 tui rảnh không có làm gì hết,Vậy chốt nhá tháng 8 này chúng ta đi 1 chuyến đà lạt nha 
+428,Oke luôn,
+429,Mai bạn đi xem phim với mình không?,Oke mà mấy giờ đi vậy
+430,6h tối ok không?,ừ cũng được
+431,Bạn thích đi coi ở lotte hay cresent mall nè?,Lotte đi cho gần
+432,Tui qua chở bạn nha,Ok luôn mà tren đường đi ghé mua bắp rang luôn
+433,Chi vậy?,Tại đồ ăn trong rạp bán giá cao lắm
+434,À tùy bạn,Ok chốt nhá 6h tối mai
+435,Ok luôn nè,
+436,Ê chiều nay học xong làm ván game không ?,Ok chiều nay tui rảnh nè
+437,Bạn muốn chơi game gì nè?,game gì cũng được
+438,Giới hạn thể loại đi để tui tìm game chơi,Vậy game bắn súng đi
+439,Chơi đột kích ha?,Ok mà chơi trên điện thoại hay máy tính
+440,Bạn thích cái nào hơn?,Mình thích chơi trên điện thoại
+441,Ok luôn tải game đi chiều chơi,Ừa tui tải liền
+442,Chiều nay bạn rảnh không?,Học xong là mình rảnh á
+443,Đi đá banh với tụi tui không nè?,Chắc được mà đá sân mấy người vậy?
+444,Sân 7 người nè,ok mà bạn có dư đôi giày thể thao nào không cho tui mượn với
+445,ừ cũng còn dư một đôi,ok cám ơn nha do giày tui mới bị rách
+446,"không có chi, nhớ đến đúng giờ nha",Yên tâm không cần lo tui luôn đến sớm mà
+447,haha vậy yên tâm rồi,
+448,Ê tối đi ăn buffet không?,Để tui suy nghĩ
+449,Nghĩ gì nữa đi ăn đi quán này mới mở mà ngon lắm?,Mới mở hả ở đâu vậy?
+450,Đối diện trường mình luôn á,Bạn đi ăn chưa mà biết ngon?
+451,Tui chưa đi nhưng nghe mấy đứa bạn đi rồi kể lại,Giá cả thế nào?
+452,100k ăn thoải mái luôn,Hưm vậy tui tin bạn lần này đó
+453,Ok nhất trí nhé gặp nhau tại cổng trường lúc 19h nha ,Ừa đồng ý luôn
+454,Mai qua chung cư bên tui bơi không nè?,Bơi hả ừa cũng được
+455,Bạn biết bơi chưa?,Tui cũng biết sơ sơ hà 
+456,Thế thì qua tập bơi là hợp lí,Ừa cũng được tại kì này tui cũng có đăng kí học bơi ở trường
+457,Vậy hả thế môn bơi yêu cầu bơi bao xa mới qua môn ?,"Trường tui quy định là nam phải bơi được 100m, nữ phải bơi được 50m mới qua môn"
+458,Ui nghe khó thế,Tui thấy căng thẳng quá do tui chưa bơi tốt
+459,Qua chung cư đi tui chỉ bạn bơi,Ừ trăm sự nhờ ông đấy 
+460,nay đi coi phim không nè,đợi tí để tao kiểm tra lịch đã <eos> mà mày biết có phim gì hay không?
+461,"Hmmm, giờ thì có phim Doctor Strange, hay lắm. <eos> Đi qua rạp Vivo City gần trường Tôn Đức Thắng tao học đi nè.","Ừa, mà mấy giờ được."
+462,"Chắc cỡ 4 giờ chiều nay đó, qua rước tao nha.","Ừa,."
+463,Hôm nay có đi tiết học gì không vậy An?,"Từ từ, để tao kiểm tra lại đã. <eos> Chiều nay có tiết Học máy, của thầy Cường. Chiều mày có đi học không?"
+464,"Để coi, mà tao cũng hơi mệt nên cũng muốn nghỉ.","Haha, chắc tao cũng vậy."
+465,Yasuo thôi nào. Haha,
+466,"Èo, chán quá, cả năm nay tao chỉ ở nhà. <eos> Không biết hè này nên đi đâu nhỉ, được nghỉ 3 tháng.","Haha, thôi đi Đà Lạt nè cho mát. Lên đi chụp hình."
+467,"Thôi, tao vừa xem trên Tiktok thấy Đà Lạt mưa với đông dữ lắm. <eos> Tao không đi Đà Lạt đâu!","Eo, mày khó tính thế! <eos> Thế còn Vũng Tàu thì sao?"
+468,"Để coi đã, nếu mà đi thì bao giờ về được?","Tao không có tiết nào phải học hết, nên đi 3 ngày cuối tuần được không?"
+469,"Ừa, nhưng mà phải về sớm vì thứ hai tao có ca học ở trường đấy!","Oke, no problem!"
+470,"Đức Thắng ơi, nãy giờ mày ăn gì chưa?","Èo, tao mệt quá mày ạ. Chắc tí nữa đi ngủ."
+471,"Haha, thôi đi ăn nè, tao vừa được mẹ gửi tiền lên, đi ăn đi tao bao.","Oke, thay đồ đi liền. Hehe."
+472,"Hôm nay chán quá, mày có muốn đi đâu không Dương?","Tao đang làm bài tập trên trường, chưa xong nữa."
+473,Vậy khoảng khi nào mày làm xong vậy?,"Để tao coi đã, chắc tầm 8 giờ tối nay."
+474,"Uhm, vậy đi, tao chờ. Tối nay 8 giờ tao đón ở nhà mày nha.",Oke.
+475,"Hôm nay chán quá, mày có muốn đi đâu không Dương?","Tao đang làm bài tập trên trường, chưa xong nữa."
+476,Vậy khoảng khi nào mày làm xong vậy?,"Để tao coi đã, chắc tầm 8 giờ tối nay."
+477,"Uhm, vậy đi, tao chờ. Tối nay 8 giờ tao đón ở nhà mày nha.",Ừa.
+478,"Mày xuống đi, tao tới rồi nè.","Đợi tí, tao đang đi thang máy xuống."
+479,"Lẹ chân lên, chậm chân thế. Dcm.","Từ từ, hối quá, tới rồi nè."
+480,"Giờ đi qua Quận 1 phố đi bộ trước, rồi sau đó ghé qua Quận 4 ăn đồ chiên, mày thấy được không?","Ừa, mà có quán đồ chiên gì ngon ở Quận 4 vậy?"
+481,"Ừa, chờ xíu đã, để tao coi lại có cái quán này ngon lắm.",Mày coi trên reviu.vn hay tiktok vậy?
+482,Tao lưu video của mấy reviewer trên titkok.,"Uhm, vậy cũng được."
+483,"Hi Dương, lâu rồi không gặp, dạo này mày ổn đấy chứ?","Haha, cũng 2 năm rồi nhỉ. Tao vẫn khoẻ. <eos> Mà giờ mày đang học ở đâu đấy?"
+484,Tao đang học Thương mại điện tử ở Đại học kinh tế.,"Wow, giỏi vậy. Thế mày học về làm web hay phương thức tiếp cận khách hàng và tìm hiểu nhu cầu người sử dụng à?"
+485,"Ồ không, tao học chuyên về nghiên cứu lĩnh vực thị trường và đưa ra ứng phẩm phù hợp cho người tiêu dùng. <eos> Còn mày nghe nói học ở trường Đại học Tôn Đức Thắng hả?","Đúng rồi, tao học Công nghệ thông tin. Mà học dốt lắm. Dcm giờ chưa ra trường nè."
+486,"Haha, bố mày cũng vậy thôi. 🤣",Mày định làm trùm trường à. Góp gạch xây trường à?
+487,"Haha, cũng cố lắm rồi. ",Mà giờ mày dự định làm ở đâu chưa?
+488,"À, tao dự định làm cho bên Vinamilk, đang thực tập bên đó. Chắc sau này cũng làm ở đấy luôn.","Ừa, chúc may mắn nhé."
+489,"Hi Dương, hôm nay chơi Liên minh không?","Vào solo Yasuo à, mày giỏi thì vô đây!"
+490,"Hhaha, giỏi lắm con trai, vô đây bố chấp.","Ây, tức quá, chơi game thắp nhan à."
+491,"Haha, do mày gà thôi, cùi bắp. <eos> Thôi giờ đánh xếp hạng đi","Ừa, vào gánh tao nhé, mày Malphite tao Yasuo. Oke chưa?"
+492,Oke luôn.,
+493,Có chơi thể thao không Minh?,Có
+494,Mày chơi môn gì nhỉ,"Tao chơi bóng đá, bóng rổ, cầu lông."
+495,Mày chơi nhiều vậy <eos> Vậy chứ mày giỏi nhất môn gì,Bóng đá
+496,Mày chơi vị trí nào,Thủ môn
+497,Vậy hôm nào tao với mày lập team đá giao lưu đi,Được thôi
+498,"Chào Thức, lâu quá không gặp, _x001d_bạn khỏe không?","Mình khỏe, còn bạn thì sao?"
+499,"Mình cũng khỏe, Sáng mai bạn có thời gian rảnh không?","Ừ, sáng mai mình rảnh."
+500,Sáng mai mình đi xem phim nha?,Được đó. Phim bắt đầu lúc mấy giờ vậy?
+501,Khoảng 10 giờ.,Bạn qua chở mình đi được không?
+502,"OK, mình sẽ đến đón cậu sớm hơn một chút và chúng ta sẽ đến quán cafe cạnh rạp chiếu phim, như vậy được không?","_x001d_Được, mình rất thích nơi đó. Hẹn gặp _x001d_bạn ngày mai."
+503,Tạm biệt,Tạm biệt
+504,"Nhân này, sắp tới ngày 01 tháng 06 cậu đã có dự định gì chưa?","À 01 tháng 06 hả, để xem nào…mình chưa có dự định hay kế hoạch gì cả."
+505,Vậy cậu nghĩ sao về một chuyến picnic trong ngày vào hôm đó cùng mình và những người bạn thời sinh viên?,"Ohhh, đúng là một ý kiến không tệ!! Mà cậu đã chọn được nơi để đi chưa?"
+506,"Haha, mình chưa chọn được địa điểm nữa","Haha, vậy cậu nghĩ sau về một chuyến đi biển ở Vũng Tàu? Những ngày hè này mình thấy đi biển khá là hợp lý và chi phí cũng không phải là vấn đề."
+507,Ok được đấy! Vậy để mình liên hệ với những người khác để thông báo nhé,Mình cũng sẽ liên hệ với họ cùng cậu nhé.
+508,Mai sáng tui bắt đầu làm,"Tui cuối tuần mới làm được, đi ship cả ngày"
+509,Shipper hả ông <eos> Mưu sinh à?,Ừ <eos> Kiếm thêm thu nhập
+510,Ưa thì cứ sắp xếp làm thôi <eos> Còn 1 tháng lận mà <eos> Quan trọng <eos> Là khúc trả lời câu hỏi,Ừm
+511,Phim này dở quá ha ông,"đúng rồi đó, diễn viên vừa xấu, diễn vừa tệ mà nội dung không rõ ràng"
+512,Tốn tiền mua 2 vé phim mà không đáng giá tý nào,"Phải rồi, nếu được mua lại tui sẽ chọn phim khác"
+513,"Đúng rồi ông, tui thấy phim kia được đánh giá cao lắm","Được rồi, khi nào rảnh, tui với ông sẽ đi xem phim đó"
+514,Ok ông,
+515,Ê bạn hình như có dr.strange 2 rồi kìa,Ngày nào chiếu vậy bro?
+516,chiếu sớm ngày 4/5 nhé,Hôm đó tôi đang ở quê chưa lên coi được
+517,thế thì ngày 7/5 đi coi được không?,Ôi tuyệt vời luôn bạn ơi
+518,Thế tao đặt vé lúc 19h nha đi được không?,Được bạn. Đặt ghế hàng G H gì đó nha
+519,Ok 18h t qua đón mày đi ăn,Ok bro
+520,"alo, sáng sớm ăn uống gì chưa?",Chưa bạn
+521,Đi ăn không? Tao tìm được quán ngon lắm,Tao đang bận
+522,Tao khao kèo này,Đang bận đồ bro
+523,Mày thích ăn bún hay cơm,Món có nước là Ok hết
+524,tao đang qua nhà mày chuẩn bị xuống đi,Ok. Tao đang chờ ở cổng
+525,Bạn có hay nghe nhạc không?,Có chứ bạn. Mình thích nghe nhạc pop
+526,Mình cũng vậy. Nhưng mình chỉ nghe nhạc nước ngoài thôi,Ồ vậy hay nghe nhạc của nước nào?
+527,Mình chỉ nghe nhạc Trung là chủ yếu,"Nhạc Trung nghe hay thật, mình cũng hay nghe lắm"
+528,Mà mình chỉ nghe nhạc phim thôi chứ cũng không nghe hay thần tượng ai hết,Bạn với mình giống nhau ghê
+529,Hay là bữa nào tụi mình cùng nghe nhạc đi,Đồng ý 2 tay luôn
+530,Cuối tuần này đi đá banh không bạn?,"Ok, cho nhau cái hẹn nào bạn"
+531,Sáng 7h gặp nhau rồi đi chung ra sân nha,Ok mà có những ai đi nữa vậy?
+532,"À có mình, bạn, Minh, Cường, Hải với vài người nữa",Có gì thì tụi mình rủ thêm càng đông càng vui
+533,Đá tới trưa ăn cơm xong mình đá tiếp không bạn,"Thôi bạn, chiều mình phải đi học võ Taekwondo nữa"
+534,"Ồ vậy thôi, khi nào rảnh thì hẹn tiếp","Ok bạn, ngày mai gặp"
+535,Lâu rồi tụi mình không đi đâu du lịch nhỉ,Uh cũng 2 năm kể từ khi đi Đà Lạt rồi
+536,Hay cuối năm nay mình chơi lớn đi du lịch nước ngoài đi,Đi Thái Lan được không hay đi Hàn Quốc
+537,Đi Hàn đi biết đâu mình gặp được idol thì sao,"Bạn mê idol thế, còn mình chỉ muốn đi chơi rồi ăn uống các thứ thôi <eos> Mà tùy bạn mình chiều theo bạn hết"
+538,"Ok vậy mình đi Hàn nha, qua đó cũng nhiều đồ ăn ngon lắm","Ok luôn, nhắc tới đồ ăn là chảy dải rồi"
+539,Vậy chốt là tụi mình đi Hàn chơi,
+540,Sở thích của bạn là gì?,Tôi thích nhất là đọc sách và nghe nhạc. <eos> Còn bạn thì sao?
+541,"Tôi cũng rất thích đọc sách, thể loại tôi thích nhất là đọc sách.","Tôi cũng thích tiểu thuyết, tôi đã từng có một bộ sưu tập tiểu thuyết nữa đấy."
+542,Thật là ngạc nhiên!,Điều đó là thật đấy. <eos> Bạn thích nhất cuốn tiểu thuyết nào?
+543,Tiểu thuyết tôi thích nhất là Harry Potter. Bạn biết nó chứ?,"Tất nhiên rồi, tôi đã đọc nó ít nhất là 2 lần."
+544,"Tuyệt vời, có vẻ như tôi và bạn có cùng sở thích.",Tôi với bạn hợp nhau ghê.
+545,Hi bạn,hi <eos> Ai vậy?
+546,Tui học chung môn nhập môn ngôn ngữ tự nhiên với ông nè. <eos> Ông có nhóm chưa cho tui vô với,À nhớ rồi <eos> Tui cũng chưa có nhóm nè
+547,Vậy mình gộp lại chung 1 nhóm nha,Ok luôn bạn ơi
+548,"Ê, mấy nay đi đâu đấy",Có đi đâu đâu trời
+549,Thì không thấy ghé đây chơi,Đang bị covid <eos> Ai dám đi đâu được bạn ơi
+550,Ủa vậy hạ? <eos> Có ho sốt nhiều không bạn <eos> Uống thuốc chưa?,"Có ho, có sốt  <eos> Mệt lắm bạn ơi"
+551,Thôi lo uống thuốc đi bạn. <eos> Mà bạn uống thuốc gì chưa?,"Mẹ tui mua rồi, uống được qua nay"
+552,Lo uống thuốc điều đặn vô <eos> Vài hôm là bớt thôi mà ,"Ok bạn hiền <eos> Thôi nằm chút nha, đau đầu quá"
+553,OK <eos> Chúc bạn mau khoẻ <eos> Bye,Bye
+554,Hello em,Ai vậy ạ?
+555,Anh Tùng mới gặp em ở đám cưới bé Ninh ấy <eos> Em tên Vân phải không,"Yes, anh là bạn chú rể phải không"
+556,Chuẩn luôn em ơi,Anh nt em có dụ gì không
+557,À thấy em dễ thương nên hỏi thăm chơi á mà <eos> Nghe cô dâu nói em còn FA,"Hehe, lâu quá mới có người khen  <eos> Cơ mà anh Tùng không sợ bị bạn gái la à"
+558,"Hông em ơi, anh làm gì đã có bạn gái",Anh vui tính nhể <eos> Mà thôi em đi ngủ nha <eos> Nay uống hơi nhiều em mệt
+559,Ok em <eos> Ngủ ngon,
+560,Ê lễ này đi chơi đâu cho vui không,Đi Đà Lạt đi
+561,"Thôi thôi, đông lắm  <eos> Có mà ra hồ nằm đất",Nói nghe chán đời thế
+562,Đi đâu trăng thanh gió mát đi,Trăng thanh gió mát thì đi Đà Lạt chứ còn đâu <eos> Hay đi Spa luôn cho nó máu
+563,Thôi thôi đi biển Vũng Tàu thôi  <eos> Tiền không có mà vẽ cho to,Oke chốt
+564,Ê ,Sao sao?
+565,"Có phim mới, có phim mới",Phim gì?
+566,"Kị sỹ ánh trăng, phim Mavel đấy",Là phim của mavel thì chất lượng khỏi chê
+567,Đúng rồi <eos> Có nhà không?,Có  <eos> Qua đây cày phim chung
+568,Đúng ý tớ rồi đấy,30p nữa nhé cậu
+569,Ok luôn,
+570,Đói quá bạn ơi,Ơi <eos> Ăn gì ở đâu
+571,"Bò Né <eos> Chỗ cũ, giờ cũ",Oke bạn 
+572,Môn thể thao yêu thích của bạn là gì?,Tôi thích bóng rổ. Tôi xem các trận đấu trên TV mọi lúc.
+573,Ai là đội yêu thích của bạn?,U23 Việt Nam
+574,Họ có thực sự tốt trong năm nay không?,Vâng họ chơi rất tót. Bạn có thích họ không? <eos> Bạn có nghĩ rằng họ sẽ giành chức vô địch năm nay không?
+575,Cũng có thể. Họ có một số cầu thủ thực sự giỏi.,Bạn đã xem trận đấu tối qua chưa?
+576,"Một chút, tôi không xem toàn bộ trận đấu. Đó là một trận đấu tuyệt vời.",
+577,Cậu thường làm gì vào những lúc rảnh rỗi?,Mình rất thích xem các bộ phim nước ngoài. Còn cậu thì sao?
+578,Mình thích các hoạt động ngoài trời. Cậu có thích cắm trại không?,"Chỉ cắm trại qua 1 đêm thì không sao, mình không thể cắm trại qua nhiều hơn 1 đêm được!"
+579,Cậu đã bao giờ cắm trại ở Đà Lạt chưa?,"Chưa, nhưng mình rất thích được cắm trại ở đó. Mình nghe nói đó là nơi rất tuyệt"
+580,Nó rất lãng mạn. Mình va mọi người trong gia đình đều thích nơi này.,Cậu có bức ảnh về cảnh cắm trại ở đó không?
+581,"Có chứ, cậu có muốn xem không?",Hay quá!
+582,"Alo, Cậu có đang rảnh không ?",Sao vậy cậu ? Tớ đang xem phim.
+583,"Tớ muốn rủ cậu đi ăn tối, cậu có rảnh không ?",Tớ rảnh nha
+584, Cậu muốn ăn gì ?,Cậu muốn ăn thế nào ? Cậu muốn ăn bún đậu hay phở không ?
+585,Cậu _x0008_thấy bún bò huế thế nào ?,"Ồ, cũng không tồi đấy. Đi thôi!"
+586,Tớ qua đón cậu nhé!,"Ok, cảm ơn cậu!"
+587,Tuần sau chúng ta đi du lịch không?,Cậu muốn đi đâu?
+588,Cậu muốn  biển hay đi núi nhỉ ?,Đang mùa hè hay là đi biển nhỉ?
+589,Mình đi Vũng Tàu chứ nhỉ?,"Cũng được đấy, tớ muốn ăn trứng lòng đào ở đó quá."
+590,Sắm vài bộ outfit để chụp ảnh cậu nhỉ?,"Hay nha, đúng ý tớ đó."
+591,"Quyết định vậy nha, hẹn gặp câu Thứ 2 tuần sau!","Ok, chào cậu."
+592,"Tuần này có nhiều phim khá hot, cậu muốn đi xem không ?",Là một fan của Marvel thì không nên bỏ qua Doctor Stranger nha.
+593,Chúng ta nên đặt vé trước để có chỗ ngồi ổn chứ nhỉ? Sợ hết ghế đẹp cậu ạ!,Đúng rồi đó cậu. Phim mà tớ rất mong chờ.
+594,Cậu muốn ngồi hàng ghế nào? I hay J ? Vì chỉ còn 2 hàng đó có ghế đẹp thôi cậu ạ.,"Hàng J đi cậu, tớ thấy hàng đó ổn hơn ấy."
+595,"Vậy tớ đặt suất 19:00 ngày 08/05, rạp vivo, hàng J16 J17 nhé? Cậu thấy sao?","Được nha cậu, cậu qua đón tớ được không?"
+596,"Được nha, tầm 18h tớ qua nhé.",Cảm ơn cậu!
+597,Dạo này cậu thế nào rồi?,"Tớ vẫn khỏe, nhưng mà deadline nhiều quá, cảm giác hơi stress. Còn cậu thì sao?"
+598,"Tớ cũng ổn, nhưng dạo này tớ bắt đầu đi thực tập rồi nên vừa học vừa thực tập hơi mệt.","Wow, cậu giỏi thế. Được nhận đi thực tập sớm vậy thì phải cố gắng nha"
+599,"Có giỏi gì đâu cậu ơi, tớ đậu được là do may mắn thôi, nên bây giờ phải tự học kiến thức mới rất nhiều","Cố lên cậu ơi, nào công ty có tuyển nửa thì nhắn tớ một tiến nhá, tớ cũng đang tìm chỗ thực tập"
+600,Okie cậu. Cuối tuần này cậu có rảnh không? Đi ăn với tối với tớ,"Tớ rảnh, thế cậu muốn ăn ở đâu?"
+601,"Chỗ cũ, bò lá lốt Tân Quy nha.","Okie cậu, hẹn cậu 6h nhá."
+602,"Alo, Cậu có đang đi học không?",Tớ không. Tớ đang ở nhà thôi
+603,Muốn đi mua sắm gì không ? tớ cũng đang rảnh.,"Cũng được, tớ cũng có vài món muốn mua."
+604,Vậy tí mình đi Vincom Đồng Khởi nhé,Sao cậu không đi Crescent Mall cho gần
+605,"À, tớ có thấy mấy hiệu quần áo bên này cũng xinh, nên sẵn mình đi 2 chỗ luôn",Thế tầm 2 tiếng sau tớ qua đó nhé
+606,"Được, thế tí gặp lại cậu nha. Chào cậu.",Chào cậu.
+607,bạn tên gì?,Mình tên Vinh? <eos> còn bạn tên gì? 
+608,Hiếu <eos> Bạn học ở đâu?,"Mình ở nhà, còn bạn?"
+609,Quê bạn ở đâu,"Quê mình ở Hà Nội, còn bạn?"
+610,Quê mình ở Thành Phố Hồ Chí Minh,
+611,"Chào Vinh, điểm cuối kì môn xử lý ngôn ngữ kì trước được mấy ?","À, mình được 9.9 điểm à. Mình có đăng ký học lại để nâng điểm á. "
+612,"Ồ vậy à, mình được có 8. Có khi mình cũng học lại để nâng điểm cùng bạn","Nghe được á, mà bạn định đăng ký vào nhóm mấy?"
+613,"À, mình tính đăng ký nhóm 6. ","Thế chung nhóm với mình rồi, bạn có biết thầy tên gì không?"
+614,Hình như thầy tên là Lê Anh Cường á bạn. Nghe nói thầy dễ lắm,"Ồ cảm ơn bạn, ông anh mình cũng bảo học thầy dễ thương lắm."
+615,"Oke, vậy hẹn gặp bạn ở buổi học tới.","Ok bạn, hẹn gặp bạn trong buổi học tới."
+616,"Ê Vinh, mai đi coi phim Doctor Strange mới ra của Marvel không?","Nghe được đó, mà Hiếu bao vé hả?"
+617,"Ừa, mày rảnh thứ mấy?",Chắc tao rảnh được mỗi Chủ nhật tuần này. Mà mấy giờ phim chiếu vậy?
+618,"Tao tính đi 6 giờ chiều. Mà có nhiều khung giờ lắm, rảnh tầm nào đi tầm đó.", Đi 4 giờ đi. Coi phim xong còn sớm rồi mình đi ăn đâu đó.
+619,Xem xong đi ăn lẩu băng chuyền không?,"Lẩu băng chuyền à, nghe nhức nách đấy. Chốt luôn mày ơi."
+620,Mày bao nhé?,"Được, tao sẽ bao mày một bữa thịnh soạn."
+621,"Chào Vinh, hân hạnh được gặp bạn <eos> Vinh cho mình hỏi quê bạn ở đâu vậy?","Chào bạn, trước tiên bạn là ai, hỏi quê quán mình làm gì?"
+622,"Mình là Hiếu, mình muốn làm quen thôi","A, có phải Hiếu PC đấy không. Tao nè, Vinh Khuất quê Sơn La nè"
+623,"À ra là Vinh, quê tao cũng Sơn La nè. Đồng hương rồi",26 Sơn La chào anh em nhé. Bữa nào hẹn nhau làm một chuyến về quê chơi không?
+624,"Oke bạn, tôi đợi cái hẹn này lâu lắm rồi đấy","Được bạn, hẹn bạn vào một ngày không xa."
+625,Oke bạn,
+626,"Chào bạn, bạn có phiền nếu mình xin facebook được không ạ?","Chào bạn, được không vấn đề gì. Facebook của mình là VinhXinhGai"
+627,"Ồ, mình tìm thấy rồi. Cám ơn bạn.  <eos> Nãy mình thấy bạn hát trên sân khấu hay quá. Mình làm quen được không?",Ok bạn
+628,Bạn đã tập luyện trong bao lâu để giọng hát hay như vậy?,Mình tập cũng gần 2 năm rồi
+629,"Mình cũng thích được người khác hát cho mình nghe mặc dù mình hát không được hay cho lắm, bạn có thể hát cho mình nghe được không?","Do hôm nay mình mới đi hát về, nên mình đang hơi mệt, có lẽ để khi khác nha."
+630,Ok. Hẹn bạn vào cuối tuần nhé.,
+631,"Ê Vinh, lát nữa học xong đi ăn bánh giò không?","Hả, lại bánh giò à? Ăn cái khác đi"
+632,"Hừm, vậy ăn bún đậu mắm tôm nha?",Nghe hợp lý đó. Đi liền <eos> Mà mày bao tao nha. 
+633,Ok không vấn đề. Mày có ăn được mắm tôm không đó? ,"Có chứ, ăn bún đậu mà không ăn mắm tôm thì phí quá"
+634,"Haha, tưởng mày sẽ ăn với nước tương cơ. Vậy 5 giờ tao đón mày trước cổng trường nhé","Ok luôn. À đi ăn xong đi uống trà sữa nhé, tao bao lại."
+635,Ok không vấn đề.,
+636,"Cái túi này đẹp quá nhỉ , Hiếu?","Ừ, tôi cũng thấy vậy. Bao nhiêu tiền đó?"
+637,1 triệu. Ôi mắc quá. ,Này có đôi giày này hợp với ông nè. Thử đi
+638,"Hừm, nhìn cũng đẹp đó. Để tôi xem",Đôi này có 500 nghìn à. Cũng đáng để mua đấy
+639,Size này hơi chật với chân tôi rồi. Tiếc quá,"Không sao, còn nhiều đồ để lựa mà <eos> Thử xem cái áo này đi."
+640,"Ok ông, để tôi xem nào.",
+641,"Chào cậu, mình là Vy bạn cùng lớp môn Chính Trị hồi năm 4 với cậu nè.","À chào cậu, mình nhớ rồi. Mà cậu tìm mình có gì không?"
+642,À cũng không có gì to tát. Mình chỉ muốn cảm ơn cậu đã giúp đỡ mình qua môn. ,"À không có gì đâu bạn, mà còn có việc gì quan trọng khác nữa không?"
+643,"Dự là tuần sau mình đám cưới, đây là thiệp cưới mình gửi bạn, gia đình mình rất vinh dự khi có sự chung vui của bạn.","Ồ chúc mừng bạn nhé, cũng cảm ơn bạn vì đã mời mình tham dự."
+644,"Ha ha, không có gì đâu nè. Mong được sự góp mặt của bạn tại đám cưới của mình nha.","Ừ bạn, mình nhất định sẽ đến tham dự đám cưới của bạn."
+645,Cảm ơn bạn nhé. Chúc bạn một ngày tốt lành.,Ừ cảm ơn bạn rất nhiều.
+646,"Chào ông, nay tôi hẹn ông ra có việc cần nhờ. Cảm ơn ông vì đã tới.","À không có gì đâu ông, dù gì cũng chổ quen biết nên cũng ráng giúp ông vài việc."
+647,"Cảm ơn ông, ông tốt quá. Dự là tôi có miếng đất muốn bán nhưng rao mãi không bán được.",Nên ông định nhờ tôi môi giới dùm đúng không?
+648,"Đúng rồi ông, tôi cũng đang cần tiền nên bán được càng nhanh càng tốt.","Ok, tôi sẽ giúp ông. Giờ ông cho tôi xin thông tin về phần đất của mình đi."
+649,"Được, đây ông. Đất ngoại thành nên cũng khá rộng. Đủ để xây khu nghỉ dưỡng nhỏ.","Chà cũng được đấy, thế ông định ra giá bao nhiêu cho phần đất này?"
+650,Dự tính ban đầu của tôi là 100 tỷ. Ông thấy sao?,"Được, tôi thấy ổn đấy. Vậy có gì tôi sẽ đăng bán. Nếu có người mua tôi báo ông ngay."
+651,"Thế thì tốt quá, cảm ơn ông.",
+652,bạn tên gì vậy?,mình tên Vũ <eos> còn bạn tên gì?
+653,Hoàng <eos> bạn học ngành gì?,mình học khoa CNTT <eos> còn bạn?
+654,2 đứa mình chung khoa nè,"wow, thế bạn năm mấy?"
+655,năm nhất <eos> bạn năm mấy?,"năm nhất luôn, hahaha"
+656,bạn ở trọ hay ở ktx?,ở ktx <eos> bạn ở ktx luôn hả?
+657,ừ <eos> vậy bửa nào đi chơi nghen?,ok
+658,"ê, đi chơi không?",đi chứ <eos> mà đi đâu mới được?
+659,đi coi phim,"ok, mấy giờ?"
+660,7h đi,đi coi phim gì?
+661,lên rạp rồi lựa luôn,sao không chọn phim luôn? lên rạp mua vé cho lẹ
+662,vậy để tao coi thử có phim gì? <eos> mà mày thích phim gì?,hành động hay kinh dị gì đó
+663,"ok, vậy xem phim kungfu panda","đù, mấy giờ?"
+664,8h30,ok
+665,lâu quá không gặp mày. ,"ừ, mày nay sao rồi?"
+666,bình thường <eos> mày ra trường chưa?,chưa
+667,"trời, sao chưa ra nữa?",còn nợ môn
+668,nợ mấy môn?,4 môn
+669,ít dữ hen <eos> ngành của mày khó không?,"không, mà là học không biết gì"
+670,haha,mày đi làm rồi hả?
+671,ừ,mày làm ở đâu?
+672,ngân hàng Agribank ở quận 7,gê mày
+673,đi làm vui không?,vừa vui vừa mệt
+674,cậu xem phim bác sĩ trang chưa á?,ủa phim bác sĩ trang là phim gì ta ?  <eos> làm gì có phim nào tên như thế đâu ta?
+675,phim dr strange đó cậu,"à trời, tưởng phim gì chứ mới xem hôm qua luôn nè. <eos> phim đó nói về việc du hành đa vũ trụ với hậu quả của nó mà"
+676,à vậy hả?,ừm. trong đó có cuốn sách là darkhold đỉnh lắm. <eos> có đoạn thằng trang nhập xác hóa thay ma đúng bá luôn.
+677,"má đừng có spoil chứ ba, t chưa xem phim đó nha đừng có kể nữa chửi á.",thì ai nói gì đâu nhưng mà đoạn cuối thằng trang mọc thêm một con mắt nữa ảo vãi.
+678,"thôi t không nói chuyện với m nữa, toàn spoil thôi.",
+679,Bạn tên gì?,Mình tên Thắng <eos> Còn bạn tên gì?
+680,Mình thì tên Ngân <eos> Bạn sinh năm mấy vậy?,Mình sinh năm 2000
+681,Vậy chúng mình bằng tuổi nhau rồi. Mình cũng sinh năm 2000,Vậy bạn sinh vào tháng máy?
+682,Mình sinh vào tháng 12 <eos> Còn bạn sinh tháng mấy vậy?,Mình cũng sinh vào tháng 12
+683,Bạn học trường gì?,Mình học trường đại học Tôn Đức Thắng <eos> Còn bạn học trường gì?
+684,Mình học Cao đẳng nghề Du Lịch Sài Gòn,Bạn học chuyên ngành gì vậy?
+685,Mình học chuyên ngành Quản trị nhà hàng khách sạn <eos> Còn bạn học chuyên ngành gì?,Mình học ngành Công nghệ thông tin
+686,Vậy chắc bạn phải giỏi máy tính lắm nhỉ?,"Không có đâu, mình chọn ngành này vì mình thích máy tính thôi"
+687,Bạn cứ khiêm tốn <eos> Bạn học năm mấy rồi?,Mình học năm tư <eos> Còn bàn học năm mấy?
+688,Mình cũng học năm tư,Vậy là bạn sắp ra trường rồi đúng không?
+689,Đúng rồi <eos> Tháng 9 năm nay mình ra trường,
+690,Bạn có muốn đi du lịch với tớ không?,Chắc rồi <eos> Nhưng ta sẽ đi đâu?
+691,Bạn nghĩ sao về việc du lịch Đà Nẵng,"Tuyệt vời, mình cũng muốn đi du lịch Đà Nẵng <eos> Vậy khi nào chúng ta đi?"
+692,Khoảng hè,Bạn có thể cho mình một thời gian cụ thể được không?
+693,Chắc là tầm đầu tháng 6 năm nay,"Ok, nhưng cuối tháng 6 được không?"
+694,Sao vậy?,Đầu tháng 6 mình có cuộc thi Toeic cần phải tham gia
+695,Cũng được <eos> Vậy chốt cuối tháng 6 ta sẽ đi Đà Nẵng nhé,Ok <eos> Chúng ta cần bao nhiêu cho chuyến đi lần này?
+696,Mình nghĩ tầm khoảng 10 triệu,Chúng ta sẽ đi bằng cái gì?
+697,Chúng ta sẽ đi bằng máy bay đến đó,Lúc về chúng ta đi bằng xe lửa nhé?
+698,Được thôi nhưng thời gian sẽ lâu hơn đi máy bay đó,Tuy lâu nhưng chúng ta sẽ được ngắm nhiều cảnh đẹp hơn
+699,Ok,
+700,Bình thường bạn thích làm gì khi rảnh?,"Tui thích đi xem phim, đi uống trà sữa hay đi chơi với bạn bè <eos> Bạn thì sao?"
+701,Tui cũng như bạn thôi <eos> Có đôi lúc rảnh mà không muốn ra đường thì tui cũng hay tập yoga tại nhà,Bạn có thích uống trà sữa không?
+702,"Có á, nhưng mà tui không uống thường",Vậy bữa nào mình hẹn nhau đi uống trà sữa nghen?
+703,"Ok bạn <eos> Bữa nào chi bằng làm liền bữa nay, đi ngay không bạn?",Ok đi thôi
+704,Nghe nói có phim Doctor Strange mới ra hay lắm <eos> Hay là tụi mình đi coi đi?,"Thôi bạn ơi, mình hết tiền rồi"
+705,"Đi đi, BHD có chương trình U22 giảm giá cho sinh viên, chỉ 55k thôi à",55k cũng là tiền mà bạn
+706,"Chưa cuối tháng mà bạn tui tiết kiệm thế <eos> Thôi được rồi, đi đi tui bao","Đấy, bạn nói vậy từ trước thì có thể tiết kiệm được thời gian không "
+707,Thua với bạn. Vậy hẹn nhau 5 giờ chiều ở BHD Phạm Hùng nhé,"Ok bạn, cảm ơn bạn nhiều!"
+708,Bạn có thích chơi cầu lông không?,Có. Mình cũng thích chơi cầu lông. <eos> Mà dạo này bận quá không có đi chơi được.
+709,Vậy khi nào bạn rảnh chúng mình cùng đi chơi nha?,Ok. Vậy mình chủ nhật tuần này chúng mình đi đi.
+710,Được nha.,
+711,Khi nào có đề bài tập cuối kì nhỉ?,Chắc cũng sắp rồi á.  <eos> Cũng gần kết thúc môn rồi.
+712,Sợ gấp quá làm không kịp. <eos> Với lại có còn nhiều môn khác nữa.,Chắc sẽ có sớm thôi.
+713,Cũng mong là vậy.,
+714,bạn tên gì?,Mình tên Long? <eos> còn bạn tên gì? 
+715,Nam <eos> Bạn học ở đâu?,
+716,"Chào bạn, bạn tên gì ?",Mình tên Long <eos> Còn bạn tên gì ?
+717,Mình tên Nam <eos> Bạn đang học ở đâu ?,Mình đang học ở Tôn Đức Thắng <eos> Còn bạn đang học ở đâu ?
+718,Mình cũng học ở Tôn Đức Thắng,Bạn học ngành gì ?
+719,Mình học ngành Công Nghệ Thông Tin,
+720,"Ê, nay có học không mày ?",Không mày
+721,Thầy nghỉ hay sao mày ?,Có tao nghỉ chứ thầy không nghỉ
+722,Coi chừng nghỉ lố buổi nha mày,Khỏi lo
+723,Có đề cương ôn nhớ đưa nha mày,Oke fen
+724,Chiều ghé Phúc Long mày,ừ mày
+725,Chiều nay đi đá banh không ?,"Ừ, chiều nay đá"
+726,Nhớ mang banh mày,Ô kê <eos> Mày nhớ mang banh theo nha
+727,"Ừm, để tao mang banh <eos> Nhưng mày mang nước nha",Thằng nào thua thì chịu tiền nước
+728,"Ừ, nhớ nha mày","Ừ, nhớ thua chịu tiền nước"
+729,Thích món gì ?,Bánh tráng trộn
+730,Thích môn thể thao nào ?,Đá banh
+731,Thích nước ngọt loại gì ?,Coca-cola
+732,Thích uống cà phê không  ?,Có
+733,Thích đọc sách không ?,Có
+734,Học bài chưa ?,chưa
+735,Biết mai thi không ?,không
+736,Có tài liệu chưa ?,có rồi
+737,Vậy nhớ in tài liệu cho tao nha,ừ
+738,Thanks mày nhiều,"ừ, không có gì"
+739,Mai đi xem phim không ?,"Mai tao bận, mốt nha"
+740,"Mốt cũng được, nhưng mày bao nước","Ừ, tao bao"
+741,Biết đi xem phim gì không ?,Không <eos> Mày chọn nha
+742,"Ừm, để tao chọn cho",Nhớ tới sớm nha
+743,"Ừ, nhớ",
+744,Ê Thanh mai đi coi bác sĩ Trang 2 hum,"oke ông, mấy giờ đi nè"
+745,5 giờ tới 7 giờ được không é <eos> coi phim xong mình đi dề luôn,"sớm hơn tí đi, 4 rưỡi tới 6 giờ được không <eos> coi xong sớm rồi đi ăn vắt cũng vui "
+746,"hợp lý á, vậy chốt 4 rưỡi tới 6 giờ nha","oke, mà hẹn gặp ngay nhà mày phải không"
+747,"đúng rồi nha, mày chuẩn bị đi lác gặp","oke , hiểu rồi, lác gặp lại nhaa"
+748,"ê rảnh hong, vào chơi liên quân chung nè","cũng hong rảnh lắm, mà thôi kệ chơi cho vui hehe"
+749,"trời ơi , mới ra tướng mới đó mạnh thiệt sự <eos> một mình nó cân được 5 đứa luôn","hahaha, để vô chơi thử nè"
+750,"vô lẹ lên nha, cho 5 phút","oke vô rồi đó, chơi liền "
+751,Cuối tuần có rảnh không bạn?,Tui rảnh nè
+752,Đi uống nước với mấy đứa trong lớp không? <eos> Mấy giờ đi ha,"Chắc 7 hoặc 8 giờ tối gì đó <eos> Oke, qua chở tui với nghe ông"
+753,Tui chở thèn bạn rồi ông ơi,"Vậy để tui đi xe cũng được, nhớ qua gọi với nha"
+754,"Oke,để nào tới tui kêu","Oke, cuối tuần gặp"
+755,Hôm qua tao thấy mày đi với em nào bên Thủ Đức phải không?,Mày thấy đoạn nào?
+756,Cái đoạn Đại học Ngân Hàng. <eos> Mới quen được em nào đúng không?,"Mới quen thôi mày ơi, đang giai đoạn tìm hiểu. Mà đừng nói ai nha."
+757,"Nhanh nhanh có người yêu đi chứ anh em có hết rồi, mình mày ế tới giờ.","Tao cũng đang cố đây, mà có vẻ lần này chắc kèo mày ạ."
+758,"Oke, vậy thì chúc phúc, chúc phúc.","Cá̉m ơn m nha, hôm nào rảnh đi uống nước."
+759,Oke chốt kèo.,
+760,Chút học ra đi ăn cơm chung không mày,Mày học mấy giờ ra á
+761,"12 giờ á, thế mày mấy giờ <eos> Tao cũng vậy, chờ mày chỗ cổng nghe",Oke <eos> Hay mày chạy qua chỗ tao đi cùng cho vui
+762,"Oke, cũng được mà mày học phòng mấy",Phòng A505 á
+763,"Oke, nhớ chờ tao trước cửa phòng học á nghe",Oke
+764,"Ê mi ơi, cái bài trên lớp lúc sáng học hiểu không?",Hiểu sơ sơ á mày
+765,Chiều tao qua trọ mày giảng lại cho tao với <eos> Mua nước qua uống thì giảng cho,"Oke, thế chiều 2 giờ t qua nghe <eos> 2 giờ còn ngủ trưa ba"
+766,"Gì mà giờ đó còn ngủ ba, thế 3 giờ nghe","Ừm, cũng được, qua tới gọi tao nghe"
+767,"Oke, tới tao gọi, bye","Oke, gọi chứ không tao cho ở ngoài á chứ"
+768,"Ê thằng tê, chiều đi đá bóng không?",Đá với tụi mô?
+769,"Đá́ với bọn làng trên nứ, ở sân nhà bà Kiều ấy hỉ.","Được mấy đứa rồi, chứ tau đang đau chân cũng nỏ muốn đi."
+770,"Mi cứ lên đi, chứ bọn hắn cũng bình thường à, lên lụm nhẹ mấy thằng nhỏ.","Rứa chiều mi qua chở tau đi hầy, bà già lấy xe đi lên xã rồi."
+771,Oke khi mô qua t nhắn.,Oke nhớ đó.
+772,Ê cho tao hỏi bữa mày thi tư tưởng đề dễ hong,"không hề dễ, đề ra toàn lạ "
+773,"vậy hả, hỏi để tao biết tao ôn á <eos> cảm ơn mày nhiều nè",hong có chi <eos> thi tốt nha 
+774,"ừa haha, mong là vậy",
+775,"xin chào, bạn cho mình làm quen được không",Được thôi
+776,"Cảm ơn, mình tên là Nam, còn bạn ?","Mình tên Trúc <eos> Quê bạn ở đâu, quê mình ở Đồng Tháp"
+777,"Mình cũng ở Đồng Tháp, vậy chúng ta là đồng hương rồi","Ừm, trùng hợp thật"
+778,Bạn có thể cho mình biết số điện thoại không?,Chắc chắn rồi.
+779,Cảm ơn và tạm biệt,gặp lại sau
+780,"Này bạn, bạn làm bài tập chưa","mình làm rồi, có gì không bạn?"
+781,"giỏi thật, bài tập khó quá mình chưa làm xong nữa","bài tập không khó lắm đâu, áp dụng công thức là ra thôi"
+782,"thiệt luôn, bạn chỉ mình làm với được không",được thôi
+783,"cảm ơn nhiều nha, hôm nào mời ông đi uống nước",không có gì
+784,ngày lễ vừa rồi bạn có đi đâu chơi không?,mình có đi leo núi ở núi Chứa Chan
+785,"tuyệt thật, bạn cảm thấy như thế nào?",lúc đầu rất mệt nhưng niềm vui chinh phục được đỉnh núi lớn hơn
+786,phải mất bao lâu để lên và xuống núi,"mình tốn khoảng bốn tiếng để lên đến đỉnh núi, và khoảng 2 tiếng để xuống núi"
+787,chà leo lên lâu thật đấy,phần là do trời mưa nên mình phải ngừng chân lại nhiều lần
+788,mình cũng muốn đi leo núi một ngày nào đó,vậy lần sau mình đi thì mình sẽ rủ bạn
+789,cảm ơn nhé,
+790,bạn có thích môn thể thao nào không?,mình thích môn cầu lông
+791,bạn có thường xuyên chơi cầu lông không?,"có chứ, mình chơi cầu lông hằng tuần"
+792,bạn thường chơi với ai,mình thường chơi với em gái mình
+793,"tuyệt vời, bạn chơi cầu lông có giỏi không",mình chơi khá tốt
+794,"khi nào rãnh rỗi, cùng chơi cầu lông nào",được thôi
+795,"chào bạn, lần đầu gặp mặt","chào bạn, rất vui được gặp"
+796,bạn hiện đang làm công việc gì?,tôi là lập trình viên
+797,bạn đang làm việc ở đâu?,"tôi đang làm việc ở quận 1 thành phố Hồ Chí Minh <eos> còn bạn, công việc hiện tại của bạn là gì?"
+798,tôi là giáo viên,bạn là giáo viên dạy môn gì?
+799,tôi dạy môn hoá,bạn đang giảng dạy tại trường nào?
+800,tôi dạy tại một trường trung học phổ thông ở thành phố Hồ Chí Minh <eos> công việc lập trình viên như thế nào?,lập trình viên là một người lập trình ra nhưng gì hoạt động bên trong một ứng dụng
+801,lương của bạn có cao không?,lương của tôi ở mức trung bình
+802,công việc bạn có suôn sẻ không?,"có chứ, có thể tôi sẽ được lên chức sớm <eos> còn bạn, công việc của bạn có ổn không?"
+803,cũng khá vất vả vì học sinh không chịu học gì cả,
+804,"Ê mày, nghỉ lễ 30/4 có kế hoạch gì chưa?","Chưa nè, mà sao á?"
+805,Đi du lịch không? <eos> Đi Đà Lạt với tao nè.,"Thôi, đi Đà Lạt lễ này đông lắm. <eos> Với lại đi ngày lễ bị chém giá cho coi."
+806,"Ừa, cũng đúng. <eos> Vậy qua lễ đi được không?","Oke nè, sau lễ tao cũng rảnh được 1 tuần ấy."
+807,Vậy chốt thứ năm tuần sau nhe. <eos> Để tao đặt vé xe với book sẵn homestay.,Oke nhe.
+808,Cậu có tham gia câu lạc bộ thể thao nào trong trường mình không?,Mình tính tham gia câu lạc bộ cầu lông nè. <eos> Còn cậu có tham gia câu lạc bộ thể thao nào không?
+809,Mình đang tham gia câu lạc bộ bóng rổ nè.,"Hay thế, mình cũng thích bóng rổ lắm. <eos> Con trai chơi bóng rổ có sức hút lắm luôn."
+810,"Haha, cậu quá khen. <eos> Sắp tới mình có thi đấu giải bóng rổ của trường nè. <eos> Cậu nhớ đến cổ vũ mình nhe.","Giỏi thế. <eos> Oke, dĩ nhiên mình sẽ đến cổ vũ cậu rồi."
+811,Mấy ngày nay chạy deadline mệt mỏi quá. <eos> Cuối tuần này đi chơi mày ơi.,"Oke nè, cuối đi tuần đi Phúc Long đi."
+812,Tao ngán Phúc Long lắm rồi.,Chứ mày muốn đi đâu?
+813,Đi ăn đồ nướng rồi đi trà sữa đi.,Vậy qua quán lẩu nướng chỗ mình hay ăn đi.
+814,"Được á, ăn rồi qua quán trà sữa KOI gần Lottemart nhe. <eos> Quá KOI mới có món trà sữa trái cây mới á.",Oke quyết định vậy nhe.
+815,Hôm nay của bạn thế nào?,Không thế nào cả.
+816,"Mình chưa hiểu lắm, ha ha?",Ý bạn muốn hỏi cụ thể là gì?
+817,"À, hôm nay bạn vui hay buồn nhiều hơn?","Không vui, cũng không buồn, ha ha. <eos> Còn bạn thì sao nhỉ?"
+818,"Vậy chúng mình giống nhau rồi, ha ha.",
+819,Chào bạn.,"Chào cậu. <eos> Mình tên Hải, bạn tên gì nhỉ?"
+820,À mình tên Phương. <eos> Tên đầy đủ là Lý Thu Hà.,Còn tên đầy đủ của tớ là Hồ Phương Hải. <eos> Rất vui được trò chuyện với Hà lúc này.
+821,"Mình cũng thế, mà Hải có sở thích chơi bóng đá lắm đúng không?","Bạn nói đúng rồi đó, mà sao bạn biết thế, ha ha."
+822,Tại mình thích để ý Hải.,
+823,Chào bạn.,Chào bạn.
+824,Cho mình gửi bạn menu chọn món của tiệm mình ạ.,Cho mình chọn món cua rang me này nhé.
+825,Mình lấy mấy phần vậy ạ?,À cho mình 3 phần.
+826,"Còn về thức uống, bạn muốn chọn loại thức uống nào ạ?",Đợi mình một chút.
+827,Vâng ạ.,"Rồi, cho mình hai ly này nhé."
+828,Vâng ạ.,
+829,Xin chào. Bạn tên gì?,Tôi tên Hưng. Chào bạn?  <eos> Còn bạn tên gì?
+830,Tôi tên Huy <eos> Bạn học khoa nào?,"Tôi học CNTT, ngành khoa học máy tính <eos> Còn bạn học khoa nào?"
+831,"Trùng hợp thật. Tôi học khoa ngoại ngữ, ngành ngôn ngữ Trung",Rất vui được biết bạn!
+832,Tôi cũng vui khi được làm quen với bạn,
+833,"Ê, sao tôi thấy dạo này bạn gầy quá vậy?","Nói nghe buồn vậy bạn, chắc do dạo này chạy deadline nhiều quá"
+834,Học gì mà làm bài nhiều ghê bạn,Thì học công nghệ thông tin toàn làm báo cáo mà
+835,Ủa là không có thi tập trung hả?,"Có mà ít lắm, giờ kỳ 6 rồi mà, nên đa số các môn chuyên ngành toàn làm báo cáo thôi"
+836,Ừ nghe sợ thế nhỉ.,"À! Bạn dạo này đẹp lên quá nha, học nhàn lắm hả?"
+837,"Cũng không nhàn đâu, mà tại có bồ nên đẹp lên á …",À thế à @@
+838,Ê! Học xong chưa? Chơi game đi,"Tui đang chạy deadline, đợi tui 30p được không?"
+839,"Vậy tui chơi trước nha, xíu học xong nhắn tui",Ok nha. Ủa mà chơi game gì vậy?
+840,Game gì cũng được. Cho bạn chọn đó,Lâu này không chơi game có biết chơi game gì đâu
+841,Bạn chơi được CSGO không?,"Có, mà máy mới chưa tải?"
+842,"Vậy giờ tải đi, xíu chơi là ổn",Ok tải liền đây
+843,Sở thích của bạn là gì?,"Tôi thích là chơi game, xem phim và nghe nhạc"
+844,Còn bạn thích gì?,"Tôi có sở thích khá đặc biệt, thích ăn và ngủ thôi"
+845,Sở thích như bạn chắc ai cũng có quá… <eos> Rồi bạn thích ăn loại đồ ăn nào?,"Đồ ăn nhanh, phải cay nha <eos> Còn bạn thường xem phim gì vậy?"
+846,"Phim kinh dị, phim tình cảm lãng mạn","Tôi sợ ma lắm, nên không xem phim kinh dị, phim tình cảm thì xem được"
+847,Có phim hay rủ xem cùng nha,"Nhất trí, đang có mấy bộ hay lắm"
+848,Lâu rồi tụi mình không đi chơi nhỉ?,Ừ. Hay kiếm chỗ nào đi vài hôm đi
+849,"Ok luôn, mà bạn rảnh lúc nào để còn biết sắp xếp",Tháng sau tôi rảnh á
+850,"Tôi cũng rảnh, vậy đầu tháng sau đi luôn nha",Được luôn bạn tôi ơi <eos> Mà đi đâu
+851,Đà Lạt được không,Thôi đi biển đi
+852,Vậy Vũng Tàu đi,Chốt đơn
+853,"Chào bạn, cho mình làm quen được không ?","Chào, rất vui được làm quen với bạn"
+854,Cho mình hỏi bạn tên gì vậy ?,Mình tên Đá 
+855,"Oh, tên bạn lạ quá ha","Ừ, ai gặp mình cũng nói vậy"
+856,"Haha, nhưng mình nghĩ cái tên đó cũng rất hay <eos> Chắc ba mẹ bạn không muốn bạn sa vào mấy tệ nạn như đập đá, hút chích",Thiệt ra ba mẹ đặt tên mình là muốn đặt tên theo các loại đá quý đó
+857,À thì ra là vậy,
+858,Đi Vũng Tàu không mày?,"Oke luôn, vậy khi nào triển?"
+859,Được thì chủ nhật này đi luôn,Đi thì đi chứ sợ gì mày
+860,"Vậy soạn đồ đi mày, sáng mai tao qua rước",Đi qua đêm hay trong ngày để biết ?
+861,Sáng đi chiều về cho nó chất,"Vậy thôi khỏi soạn gì cho mệt, một bộ cho ngầu"
+862,"Oke vậy mai tao qua đó, nhớ dậy sớm",Oke bồ
+863,Sáng mai dậy sớm đi chạy bộ đi bạn?,"Tối nay tôi chạy deadline, mai chắc không dậy sớm được"
+864,Học nhiều môn lắm hả? <eos> Thấy deadline dí miết vậy?,"Có 5 môn chuyên ngành à, tại nhiều bài cùng lúc nên dạo này có liên tục"
+865,Vậy hôm nào rảnh? Đi chạy hay chơi cầu lông gì đi,Thứ 7 tôi rảnh á?
+866,Vậy sáng thứ 7 đi chạy nha?,"Ý là thứ 7 không có deadline, nên chủ nhật đi"
+867,"À ok bạn, nhớ dậy sớm nha",
+868,Mai đi xem phim không bạn?,Mai mấy giờ vậy?
+869,"Chắc xem xuất 19h đi, được ko?",19h tôi bận rồi <eos> Bạn xem vào chiều được không?
+870,"Chiều mai tôi bận rồi, giờ sao?","Vậy bữa kia thì sao, bạn rảnh không?"
+871,Tối kia tôi rảnh,"Vậy chốt nha, 18h30 tôi qua đón"
+872,Ok bạn nha,
+873,"Hôm nay, mình được cô cho điểm mười.",Thế à? Môn gì thế?
+874,Môn Văn.,Giỏi _x0008_thế! _x001d_Bạn chỉ cho mình cách học giỏi môn Văn với nhé!
+875,Đâu có gì khó chỉ là vốn từ ngữ và sự quan sát độc đáo sẽ giúp chúng ta thêm phần tiến bộ hơn. Nhưng ...,Nhưng sao?
+876,Nhưng theo mình vẫn nhờ vào sự kiên trì là nhiều nhất!,Nhờ sự kiên trì ư?
+877,"Đúng vậy, có kiên trì chịu khó chau chuốt kiến thức thì mới có được thành công.",Có lẽ cậu nói đúng! Mình cảm ơn nhiều.
+878,Không có gì đâu!,
+879,Bạn thường làm gì vào những lúc rảnh rỗi?,Mình rất thích xem các bộ phim nước ngoài. Còn bạn thì sao?
+880,"Mình thích các hoạt động ngoài trời. 
+Bạn có thích cắm trại không?","Chỉ cắm trại qua 1 đêm thì không sao, mình không thể cắm trại qua nhiều hơn 1 đêm được!"
+881,"
+Bạn đã bao giờ cắm trại ở Đà Lạt chưa?","Chưa, nhưng mình rất thích được cắm trại ở đó. Mình nghe nói đó là nơi rất tuyệt"
+882,Nó rất lãng mạn. Mình và mọi người trong gia đình đều thích nơi này.,"
+Bạn có bức ảnh về cảnh cắm trại ở đó không?"
+883,"Có chứ, bạn có muốn xem không?",Hay quá!
+884,"Chào Thức, lâu quá không gặp, _x001d_bạn khỏe không?","Mình khỏe, còn bạn thì sao?"
+885,"Mình cũng khỏe, Sáng mai bạn có thời gian rảnh không?","Ừ, sáng mai mình rảnh."
+886,Sáng mai mình đi xem phim nha?,Được đó. Phim bắt đầu lúc mấy giờ vậy?
+887,Khoảng 10 giờ.,Bạn qua chở mình đi được không?
+888,"OK, mình sẽ đến đón cậu sớm hơn một chút và chúng ta sẽ đến quán cafe cạnh rạp chiếu phim, như vậy được không?","_x001d_Được, mình rất thích nơi đó. Hẹn gặp _x001d_bạn ngày mai."
+889,Tạm biệt,Tạm biệt
+890,Có chơi thể thao không Thức?,Có mày.
+891,Mày chơi môn gì nhỉ?,"Tao chơi bóng đá, bóng rổ, cầu lông, bơi lội."
+892,Mày chơi nhiều vậy. <eos> Vậy chứ mày giỏi nhất môn gì?,Bóng đá.
+893,Mày chơi vị trí nào?,Tiền vệ.
+894,Vậy hôm nào tao với mày lập team đá giao lưu không?,Chơi luôn.
+895,Ngày mai ông rảnh không ?,"Có ông, chi vậy ông?"
+896,Mai ông đi Vũng Tàu với tui không?,"Được ông, mình đi bao nhiêu người vậy ông?"
+897,5 người đó ông. <eos> Ngày mai ông đi xe đến nhà tui đón tui rồi mình đi nha!,Được thôi.
+898,"ê, tối nay xem phim không?","có, xem phim gì mày?"
+899,Jurassic World Dominion mày,"thôi mày, tao đâu thích xem phim khủng long <eos> hay đi xem phim tình cảm đi <eos> mới ra phim Kẻ thứ ba kìa mày"
+900,thôi dẹp mày,
+901,đi bơi không mày?,ok con dê <eos> khi nào đi?
+902,cuối tuần này,mấy giờ?
+903,2h chiều,"ok, nhớ nhắc tao"
+904,"Ê mày, có phim nào hay hay để coi hông?","À tao có phim này hay lắm, để tao search google cho xem <eos> Đây nhìn nè, phim này đó"
+905,"""No country for old men"", cái tên phim nghe ngộ vậy?","Phim ra năm 2007, thắng giải Oscar năm 2008 đó, tuy cũ mà hay"
+906,Để tao xem trên Netflix coi có không xem luôn cho nóng <eos> À có trên Netflix luôn nè,"Đấy, xem luôn cho nóng"
+907,Tao mới mua bàn phím cơ mới nè,Bàn phím gì đấy?
+908,Logitech G512,Dùng switch gì?
+909,GX Brown Switch,Sao không dùng blue switch gõ nghe cho đã tai?
+910,"Blue switch gõ nhiều ồn phiền người khác lắm, chọn brown switch là hợp lý","Ừ, vậy cũng được"
+911,"Eh, nghe bảo xu hướng năm nay là quần áo có họa tiết nổi bậc","Ừ, các màu như đỏ, cam, vàng,… đang dần thịnh hành hơn"
+912,Eh nhưng mà mặc dù các màu sắc nổi bật được ưa chuộng nhưng mà màu Pastel vẫn chưa out trend nha,"Mấy màu Pastel đó đi đôi với gout thời trang trưởng thành, thanh lịch mà ba, nên làm sao mà hết thời được"
+913,"Tao cũng đang định dấng thân vào thời trang công sở bro, nhưng mà mấy đứa bạn tao bảo nhìn như đa cấp",Tao nghĩ mày hợp với street style hơn
+914,"Hmmm, may be, nhưng mà đã quyết định thay đổi gout ăn mặc nhẹ nhàng, tinh tế hơn rồi ba haha","Ok, It's up to you"
+915,"Ay yo, what's up bro","Ay yo, lâu rồi không gặp bro, dạo này phát tướng ra nha"
+916,"Haha, ông quá khen chứ tui thấy tui cũng không khá hơn xưa mấy","Thấy mặc quần áo hiệu, mang trang sức đầy người mà ông cứ khiêm tốn"
+917,"Haha may mắn thôi ông ơi, từ lúc tập tành chơi rap đến giờ cũng 6 năm rồi, mà giờ mới thấy có cơ hội phát triển","Tính ra ông ghê phết, dạo này tên tuổi bắt đầu mon men trên mấy cái bảng xếp hạng âm nhạc rồi ha"
+918,"Ầy, cũng là nhờ có sự đổi mới trong phong cách, làm nhạc theo xu hướng của thị trường thì mới có đà mà đi lên, chứ không thì giờ tui là ai, tui ở đâu có khi chính tui còn không biết nữa kìa ","Ừ mà ông cũng chịu khó ha, hồi xưa mê Rap Old School, sống chết với Original mà giờ cũng chịu thay đổi đóng tune cho hợp xu hướng"
+919,"Thì mình sống được hay không là nhờ khán giả mà ông, người ta muốn mình hát Bolero thì cũng đành phải chịu chứ haha",Đang nói về Rap mà ông mang Bolero vào
+920,Vậy là ông chưa thấy có mấy ca sĩ cover nhạc trẻ theo phong cách Bolero rồi haha,"Cái đó mang tính giải trí nhiều hơn ông ơi, giải trí ở đây là nghe cho vui chứ người ta đâu có quan tâm đến kỹ thuật thanh nhạc đâu"
+921,"Thì cái gì mới, cái gì lạ thì lại càng dễ thành xu hướng mà, có người nhờ drama mà nổi tiếng trong một đêm, đâu phải ca sĩ nào cũng tập trung vào kỹ thuật đâu ông, cứ xinh đẹp sexy thì lại càng có nhiều đại gia tìm đến, lúc đấy thì cứ việc ở nhà mà chơi golf thôi chứ đi hát làm gì cho cực hả ông","Haha nói là vậy, nhưng tui thì vẫn thích hiphop, sống có hiphop, chết đi vẫn không bỏ hiphop"
+922,"Hiphop vibe bro, hiphop neva die",
+923,Sắp tới có rất nhiều phim chiếu rạp hay lắm đó!,"Vậy hả, bạn có dự định xem phim gì không?"
+924,Chắc mình sẽ đi coi phim Doctor Strange 2 <eos> Còn bạn thì sao?,Mình cũng chưa rõ nữa! <eos> Dạo này mình chưa có thời gian rảnh lắm.
+925,Cuối tuần này bạn có rảnh không?,Để mình kiểm tra xem… <eos> Chắc là có đó.
+926,Vậy bạn có muốn cuối tuần này đi với mình không?,Cũng được đó! <eos> Bạn có định rủ ai đi chung đông vui nữa không? <eos> Hay là chỉ có 2 đứa mình thôi.
+927,Chắc chỉ có 2 đứa mình thôi á.,"Ok, vậy cũng được bạn lên kế hoạch đi rồi báo mình nha."
+928,Okey nha!,
+929,"Alo, bạn được ra khỏi lớp chưa?","Mình đây, mình đang ở dưới ghế đá ở trước cổng toà A rồi này."
+930,"Bạn có đi ăn không, mình đi chung với nhau đi.","Cũng được đó, mình cũng hơi đói rồi. <eos> Vậy cậu muốn ăn?"
+931,"Ăn bò kho, hủ tiếu hoặc mấy món nước cũng được. <eos> Cậu có biết quán nào ngon không?",Có mình biết một quán mấy món nước khá ngon <eos> Ở đó có bò kho ngon lắm.
+932,Hấp dẫn đó <eos> Vậy mình hẹn nhau ở cổng chính nha,Bạn ra đi mình sẽ đợi.
+933,Cậu thích quần áo như thế nào?,Mình thích mấy loại áo rộng rộng một xíu.
+934,"A, bên này có mấy cái áo khá hợp với cậu này. <eos> Trông nó cũng khá rộng rãi và thoáng mát đó",Để mình xem thử <eos> Mấy cái này cũng được nhưng mà nó hơi không đẹp lắm.
+935,"Cậu cứ lựa đi, để mình đi kiếm thêm ở mấy dãy này. <eos> Ở bên này này, nhìn dễ thương và đẹp hơn này",Mấy bộ này xinh này! <eos> Mình lựa được mấy bộ rồi này
+936,"Cậu thấy được chưa, cứ lựa thêm tí nữa cũng được",Nhiêu đây chắc cũng đủ rồi đó
+937,Mình đi tính tiền thôi,Được rồi đi thôi!
+938,"Nay có trận Việt Nam đá đó, cậu có xem không?","Hôm nay hả, mấy giờ vậy?"
+939,19h nha,Giờ dó chắc mình coi trễ một tí <eos> Có gì cậu xem đi tí nữa hiệp 2 mình mới coi
+940,"Trận hôm nay hấp dẫn lắm, ráng xong coi sớm nha","Hehe, có gì cậu kể mình nghe tỉ số hiệp 1 là được"
+941,"Không nha, cho cậu tự coi",Vậy mình sẽ tự coi lại vậy
+942,"Ê, cậu rảnh chưa tới giờ lên chơi rồi",Đợi mình một xí. <eos> Đã đầy đủ team chưa vậy.
+943,"Còn cậu với thằng Tâm thôi đó,",Oke mình lên liền nha
+944,Nhưng mà hôm nay chơi bắn súng nha.,Sao vậy?
+945,Nay cả nhóm định chơi thử game bắn súng mới ra.,"Được thôi, chơi game nào mình cũng thích cả."
+946,Chào bạn,Xin chào
+947,Bạn tên là gì ?,Mình tên Tùng <eos> còn bạn tên là gì?
+948,Minh Phương <eos> Bạn sinh viên khoa nào?,Mình sinh viên khoa CNTT
+949,Mình cũng vậy <eos> Bạn là sinh viên khóa mấy vậy?,Mình sinh viên khóa 22
+950,Mình cũng là sinh viên khóa 22,
+951,Tối nay qua có xem Việt Nam đá Sea Games không?,"Không, tối qua tao bận làm bài tập"
+952,"Tiếc thật, Việt Nam đá hay mà mày không xem",Tỉ số bao nhiêu vậy
+953,Việt Nam thằng Indonesia 3 bàn,Quang Hải có ghi bàn không?
+954,Quang Hải không đá Sea Games <eos> Hôm qua Tiến Linh và Hùng Dũng ghi bàn,
+955,Tối nay đi xem phim không bạn?,Xem ở đâu thế?
+956,Lotte Mart Quận 7,Mấy giờ?
+957,7 giờ tối,"Ok, mình đi được <eos> Xem Doctor Strange hả bạn?"
+958,"Không, Mình với Nguyên đi xem Fantastic Beast <eos> Bạn xem phim đó không <eos> Xem thì mình đặt vé chung luôn",Vậy đặt giúp mình 1 vé luôn nha
+959,Đi nhậu không bạn <eos> Tao với Việt mới tìm được quán ốc ngon lắm,Khi nào bạn?
+960,9 giờ tối thứ 7,"Được, quán nào thế"
+961,Đối diện Pattaya,Tao không biết Pattaya chỗ nào cả
+962,Đường D4 gần chung cư Hoàng Anh Thanh Bình,"À, tao biết rồi <eos> Tầm 9 giờ kém tao đến"
+963,Tao mới mở ra skin Yasuo mới đẹp lắm <eos> Solo không?,Tao bỏ Liên Minh lâu rồi
+964,Vậy giờ còn chơi game không,Còn chứ <eos> Mấy game AAA
+965,Giàu vậy <eos> Mua game chơi luôn à,Tao chơi game Crack thôi
+966,Có game nào hay giới thiệu tao với nha <eos> Chứ Liên Minh chời nhiều cũng chán,Tối rảnh tao gửi cho mày link tải Game này chơi
+967,Sáng mai bạn rảnh không chỉ mình bài này với,Môn gì vậy bạn
+968,Môn Xác suất thống kê <eos> Bài 4 trong đề cương thầy giao ấy,"Được, mai mình hẹn gặp ở đâu vậy?"
+969,Thư viện trường mình nhé,"Ok, tầng hầm thư viện nhé <eos> Mình không có ổ khóa nên không vào thư viện được"
+970,Mình dư 1 ổ khóa <eos> Có gì 2 đứa mình để đồ chung rồi lên tầng 2 ngồi cho mát,
+971,Hôm nay em có gì vui không?,Hôm nay em đi shopping
+972,Đi ở đâu?,"Nice Store, Trần Hưng Đạo, Quận 5"
+973,Gần công ty anh,Anh đến đó bao giờ chưa?
+974,Chưa <eos> Anh không biết store đó,"Bữa nào anh ghé thử, ở đó nhiều đồ đẹp "
+975,Ok em,
+976,Nghe nói bạn mới chuyển ngành à,"Uk, mới chuyển được 1 tuần trước"
+977,Chuyển qua ngành gì?,Quản lý du dịch
+978,Ngành đó cũng nhiều tiềm năng,"Uk, mình tìm kiểu nghĩ lắm mới quyết định đó"
+979,Chúc bạn qua ngành mới gặp nhiều thuận tiện nhé,Cảm ơn bạn nhiều
+980,Có chứng chỉ Toeic chưa bạn?,Chưa. Mình đang có ý định ôn để thi nè
+981,Dự định thì khi nào vậy?,Chắc bắt đầu từ tuần sau <eos> Còn bạn thì sao? Có chứng chỉ chưa?
+982,"Mình cũng chưa, đang kiếm bạn để ôn cùng",Vậy mình với bạn cùng ôn
+983,"Ok, Bạn có muốn kiếm lớp ôn luyện không? Hay tự ôn",Mình nghĩ tụi mình tự ôn cũng được
+984,"OK, vậy để mình sắp xếp thời gian, bắt đầu từ tuần sau nha.","OK, để mình tìm tài liệu"
+985,ông ơi cho tui hỏi báo cáo có cần làm theo mẫu của khoa không,làm đi ông cho nhìn nó đàng hoàng  <eos> dù gì cũng là bài giữa kì
+986,cảm ơn ông ,
+987,"ủa hôm qua mày có học online không, thầy giảng cái gì vậy","có, hôm qua thầy giảng chương 2 mà toàn bắt đọc sách rồi trả lời như hôm bữa thôi à  <eos> ủa mà sao nghỉ vậy, mày nghỉ nhiều vô rồi bị cấm thi "
+988,"qua tao bận chuyển nhà, mới nghỉ có 1 buổi à không sao ",
+989,tuần sau tao về rồi ngày mấy tụi bây rảnh đi ăn,mày rảnh ngày nào có bận đi chơi với gia đình không
+990,thứ sáu tuẩn sau tao rảnh hôm đó mày đi ăn được không?,ok lúc đó tao làm xong báo cáo rồi <eos> mày tính đi ăn ở đâu
+991,"đi ăn Hadilao đi, lâu rồi tao chưa ăn lẩu ",vậy đi sớm sớm nha đợi tối đi xếp hàng đông lắm
+992,ok vậy hôm đó trưa mày qua chở tao nha,ok 12 giờ nha 
+993,Nghỉ lễ mày có đi đâu chơi không?,tao đi Đà Lạt với gia đình
+994,"mày đi mấy ngày,khi nào mày về?",Tao đi 5 ngày mới về 
+995,Về nhớ mua quà cho tao nha ,Ở Đà Lạt có gì đâu mà mua
+996,Có mứt dâu đó mày mua cho tao đi ,Vậy nếu đi chơi còn dư tiền tao mua cho
+997,Ủa bài báo cáo đặt tên như thế nào vậy bà  <eos> Tui không thấy thầy ghi trong đề,Mã số sinh viên với tên nha ông <eos> Hôm bữa cuối giờ thầy có nói <eos> Chắc thầy quên ghi vô
+998,Có cần zip bài lại không,Thầy nói không cần đâu nộp thẳng 2 file lên luôn <eos> Mà ông làm bài xong rồi hả? <eos> Nhanh vậy
+999,Tranh thủ tại tuần sau tui về quê,À vậy đi vui vẻ nha lên nhớ đem trái cây đó
+1000,Nhớ rồi,
+1001,Ê mày thấy phim nãy coi hay không <eos> Sao tao thấy nó sạn nhiều quá ,Coi cũng được <eos> Mà có mấy chỗ phi logic thiệt
+1002,Trên mạng người ta nói quá trời luôn <eos> Tự nhiên thấy uổng tiền ghê <eos> Biết vậy coi phim Turning Red,Ừa phim đó tao coi rồi dễ thương lắm
+1003,Vậy hả để mốt tao dẫn nhỏ em tao đi coi,
+1004,Ủa mai đi ăn ở đâu <eos> Mà ăn cái gì mới được,Mày muốn ăn cái gì
+1005,Tao dễ lắm ăn cái gì cũng được,Có mày là kén chọn
+1006,Vậy đi ăn lẩu đi lâu rồi chưa ăn,Mới đi ăn tuần trước mà lâu
+1007,Vậy đi ăn gà ,ok được đó ăn ở tiệm mình hay ăn đúng không
+1008,Ừa đúng rồi <eos> Mà đi sớm sớm chứ đi trễ sợ hết bàn,Vậy 11 giờ tao qua mày <eos> Nhớ chuẩn bị sớm tao qua là đi luôn đó 
+1009,Lúc rãnh bạn thường làm gì?,Mình thường đi cafe với bạn bè khi rãnh.
+1010,Bạn có hay nghe nhạc lúc rãnh rỗi?,Chỉ thỉnh thoảng mình mới nghe nhạc.
+1011,Vậy bạn thường đi cafe ở đâu?,Mình thường đi quán cafe Phúc Long ở gần nhà.
+1012,Bạn thường đi với ai?,Mình đi với 1 người bạn cấp 3 của mình.
+1013,Bạn học trường nào?,Tớ học đại học Tôn Đức Thắng.
+1014,Bạn học ngành gì?,Tớ học ngành Kỹ thuật phần mềm
+1015,Ngành bạn học thuộc khoa nào?,Ngành tớ học thuộc khoa công nghệ thông tin
+1016,Bạn là sinh viên năm mấy rồi?,Tớ là sinh viên năm cuối
+1017,Bạn học chương trình học gì?,Tớ học chương trình chất lượng cao
+1018,Học phí có cao không?,Học phí tớ thấy xứng đáng với chất lượng học tập
+1019,Khi nào bạn ra trường?,Tớ sẽ cố gắng ra trường đúng hạn vào hè này 
+1020,Bạn có thấy vui khi học ở trường này không?,Tớ có 
+1021,Bạn học lực gì?,Tớ học lực khá
+1022,Bạn đã từng rớt môn nào chưa?,Tớ có
+1023,Bạn thích hãng phim nào nhất ?,Mình thích hãng phim Marvel nhất
+1024,Thể loại phim bạn thích là gì ?,"Mình thích thể loại phim hành động, viễn tưởng."
+1025,Bạn có thần tượng ca sĩ nào không ?,Mình rất thích ca sĩ Sơn Tùng MTP.
+1026,Bạn có muốn đi xem phim vào cuối tuần này hay không?,Dĩ nhiên là muốn rồi
+1027,Mai bạn có muốn đi đá banh chung với tụi mình không?,Xin lỗi mai mình có việc bận rồi.
+1028,Bạn thuê trọ bao nhiêu tiền?,Mình thuê khoảng 3 tr một tháng 
+1029,Nhà bạn có bao nhiêu người vậy ?,Nhà mình có 4 người.
+1030,Nhà trọ bạn ở Phú Mỹ Hưng phải không.,"Không, nhà mình ở New York."
+1031,Hiện tại bạn đang ở nhà trọ hay là ở chung với gia đình? ,Hện tại mình đang ở nhà trọ.
+1032,Bạn ở nhà trọ một mình à?,"Không, mình ở nhà trọ với một số người bạn của mình."
+1033,Bạn ở nhà trọ vậy có nhớ nhà không?,Đôi lúc mình cũng nhớ nhà lắm.
+1034,Bạn có hay nấu ăn ở phòng trọ không?,"Không, mình thường với bạn ra ngoài ăn."
+1035,Bạn thuê nhà trọ như vậy có mắc không?,Cũng không mắc lắm vì tụi mình chia sẻ tiền nhà với nhau mà.
+1036,Bạn có người yêu chưa?,Chưa.
+1037,Mình làm quen nhé?,Vâng.
+1038,Hôm nay em dậy mấy giờ?,"Dạ, 6 giờ sáng ạ"
+1039,Em đi ăn sáng chưa? ,"Dạ, chưa anh"
+1040,Anh qua chở em đi ăn sáng nha?,"Dạ, ok anh."
+1041,Hôm nay đi học có gì vui không em?,"Dạ, vui lắm anh."
+1042,Em đang làm gì đó ?,Em đang ngồi nhắn tin với anh hoy à
+1043,Mẫu người yêu lý tưởng của em là gì?,Là mẫu người yêu của mình bây giờ
+1044,Quê bạn ở đâu? ,Quê mình ở Đà Lạt.
+1045,Đà Lạt có món gì gọi là đặc sản không? ,Đà Lạt có bơ sáp và dâu tây khá là ngon.
+1046,Từ đây về quê bạn mất bao lâu?,Từ đây về Đà Lạt mất khoảng 5 tiếng đi xe.
+1047,Đà Lạt cách TP.HCM bao xa?,Đà Lạt cách TP.HCM gần 300 km
+1048,Bạn có thích không khí ở quê mình chứ?,Mình rất thích không khí ở quê mình vì nó mát mẻ và trong lành
+1049,Những dịp lễ bạn có hay về quê không?,Mình chỉ về quê vào dịp Tết hoặc hè vì những dịp lễ Đà Lạt khá đông.
+1050,bạn tên gì?,Mình tên Tuân? <eos> còn bạn tên gì? 
+1051,Mình tên Huy <eos> Bạn hiện đang làm gì?,"Mình là sinh viên, còn bạn?"
+1052,Mình cũng là sinh viên.,
+1053,cuối tuần này bạn có rãnh hay không?,cuối tuần này mình rãnh
+1054,bạn có muốn đi xem phim vào cuối tuần này hay không?,tất nhiên là muốn rồi
+1055,bạn thích xem thể loại phim gì?,Phim gì hay là mình đều xem.
+1056,bạn có thường đi xem phim với ai hay không?,mình thường đi xem với bạn bè.
+1057,mình thì lâu lâu hay đi 1 mình. <eos> Bạn hay xem phim ở đâu?,Mình hay xem ở CGV.
+1058,Vậy cuối tuần này mình đi CGV nhé.,Okk
+1059,Bạn đã có người yêu chưa?,"Mình làm gì đã ó người yêu, mình còn đang sợ ế đây này."
+1060,Bạn có đang thích ai không?,"có, mình đang thích thầm 1 bạn."
+1061,bạn ấy trông như thế nào?,bạn ấy khá xinh 
+1062,bạn ấy có học trường mình không?,có bạn ấy học chung ngành với mình.
+1063,thế sao bạn không tỏ tình đi?,Hình như bạn ấy có người yêu rồi.
+1064,"Hmm, thế bạn nghĩ sao về tình yêu đồng giới =))))?",mình không =))) 
+1065,sở thích của bạn là gì?,"Mình thích thể thao, xem phim."
+1066,vậy chắc bạn là người hay chơi thể thao nhỉ?,mình cũng chơi 1 vài bộ môn
+1067,"mình thì hơi lười, vậy bạn hay chơi những môn nào?",mình thường đá bóng và bơi lội.
+1068,bạn thường chơi với ai?,mình hay chơi với bạn bè.
+1069,bạn thường ăn gì để cân đối khi chơi thể thao?,mình cũng không biết tại mình đói là có gì ăn đó.
+1070,mình cũng muốn thử sức với bộ môn bơi.,vậy bữa nào rảnh mình với bạn cùng đi.
+1071,bạn có thích đi du lịch không?,mình rất thích
+1072,bạn có thường đi du lịch không?,mình chỉ đi những tỉnh gần gần nơi ở thôi.
+1073,bạn thường đi du lịch với ai?,mình thường đi với gia đình.
+1074,sắp tới tết bạn có muốn đi đâu đó không?,mình cũng chưa tính tới.
+1075,"mình dự định đi đâu đó, bạn có muốn đi cùng không?",okk
+1076,bạn có cần tư vấn gì không ạ?,dạ mình muốn mua điện thoại.
+1077,bạn muốn mua điện thoại như thế nào?,bạn có thể tư vấn cho mình vài mẫu được không?
+1078,"vâng, tất nhiên rồi <eos> bạn thích androi hay apple?",mình thích androi.
+1079,đây là vài mẫu đang thịnh hành hiện nay bạn có thể xem qua.,ok bạn
+1080,bạn hiện tại đang ở đâu vậy?,mình thuê trọ ở quận 7
+1081,bạn thấy chỗ đó có thoải mái không?,cũng thoáng mát và rộng rãi
+1082,bạn ở với ai?,mình ở với bạn bè học chung.
+1083,giá nơi bạn thuê có mắc không?,giá trung bình mỗi người tầm 1 triệu
+1084,xung quang trọ bạn như thế nào?,nhiều của hàng tiện lợi nhưng không có chợ.
+1085,tên mày là gì?,tao tên Huy <eos> còn mày thì sao?
+1086,Quốc,mày học trường nào? <eos> tao học Tôn Đức Thắng
+1087,tao cũng vậy <eos> tao học lập trình,còn tao học thiết kế <eos> mày thấy ngành này học sao?
+1088,tao thấy bình thường <eos> tao cũng không thích lắm <eos> tao thì thích thiết kế á mày,sao mày không thích ngành mày vậy?
+1089,tại tao không giỏi <eos> tao thích vẽ hơn,vậy sao mày không học thiết kế
+1090,tại tao tính thi vào trường khác <eos> không được nên tao học ngành này,chán vậy
+1091,mày vẽ đẹp không?,không <eos> xấu quắc à
+1092,bạn có thích đi du lịch hông?,mình có  <eos> bạn thì sao? <eos> có thích đi du lịch hông?
+1093,có _x0008_chứ <eos> mình _x0008_thích mà mình ít đi lắm,còn mình đi nhiều lắm <eos> một năm mình đi chục lần
+1094,nhiều thế <eos> mình không có tiền nên ít đi lắm,trời <eos> sao bạn nghèo vậy?
+1095,mình sống ở khu du lịch mà,lẻ ra phải giàu chứ
+1096,nhà mình không làm du lịch nên không có tiền,"vậy thôi, mình không nói chuyện với bạn nữa <eos> mình với bạn không cùng đẳng cấp"
+1097,Bạn thích mẫu người như thế nào?,"Mình thích bạn nữ tóc dài, da trắng và xinh xắn."
+1098,Bạn có người yêu chứ?,"Mình chưa có, nhưng mình đang thích 1 bạn cùng lớp."
+1099,Tại sao bạn thích bạn nữ kia?,"Vì bạn ấy dễ thương và xinh xắn, bạn ấy cũng học rất giỏi."
+1100,Bạn có thường nói chuyện với bạn ấy thường xuyên không?,Mình và bạn ấy nói chuyện với nhau mỗi ngày.
+1101,Bạn nữ có hào hứng khi trò chuyện không?,Có
+1102,Bạn có ý định rủ bạn ấy đi chơi không?,"Có, Tết này mình sẽ cùng bạn ấy về quê mình chơi."
+1103,Bạn có thường đi chơi cùng bạn ấy không?,Mình thường đi cùng bạn ấy và nhóm bạn đại học.
+1104,trưa nay cậu muốn đi ăn không ?,"tất nhiên rồi, nhưng mình sẽ ăn gì ?"
+1105,ăn gà ?,mình nghĩ đó là ý kiến hay
+1106,chúng ta sẽ đi ăn ở đâu ?,chúng ta sẽ ăn ở KFC
+1107,giá cả của quán nó như thế nào?,giá không mắc lắm
+1108,bạn ăn ở đó bao giờ chưa?,mình ăn nhiều rồi
+1109,_x0008_gà ở đó ngon không?,ngon với giòn lắm
+1110,vậy chừng nào đi ăn được ?,sau khi tan học
+1111,"xin chào, mình có thể giúp gì cho bạn ?",mình cần mua một cái điện thoại mới
+1112,bạn muốn một chiếc điện thoại như thế nào ?,"mình chưa biết, bạn có thể tư vấn mình không ?"
+1113,ở đây có chiếc điện thoại nào kèm tai nghe không ?,những chiếc điện thoại có giá 6 triệu trở lên sẽ được tặng kèm tai nghe
+1114,điện thoại nào đang là thịnh hành hiện nay ?,hiện tại điện thoại Apple đang rất được ưa chuộng
+1115,mắc không bạn?,hơi mắc nhưng đáng tiền nha bạn
+1116,bạn mua là ai cũng nhìn bạn khác,khác như thế nào vậy bạn ?
+1117,nhìn bạn ra dáng là người có tiền ,bạn có chắc chắn không ?
+1118,mình chắc chắn,vậy bán cho mình cái điện thoại Apple 
+1119,bạn đã có người yêu chưa ?,mình có người yêu rồi
+1120,bạn và người yêu đã quen được bao lâu rồi ?,tớ và người yêu đã quen nhau được 1 năm rồi
+1121,bạn đã gặp người yêu như thế nào ?,mình nghĩ nó thật ngại khi nói ra nên mình sẽ không trả lời câu hỏi này
+1122,bao lâu thì cậu hẹn hò với người yêu ?,chúng tớ hẹn hò 2 đến 3 lần 1 tuần
+1123,Bạn có crush ai khác không?,"có, mình có crush một người."
+1124,bạn có thể nói crush bạn là ai không?,đó là một bí mật
+1125,sao bạn có người yêu rồi mà còn crush người khác,yêu nhiều người cũng được miễn là thật lòng
+1126,bạn có thích chơi thể thao không?,Mình có một chút thích chơi thể thao
+1127,bạn có thường xuyên tập thể dục?,Mỗi tuần mình sẽ đi đánh cầu lông 1 lần
+1128,bạn nghĩ sao về môn thể thao cầu lông?,Mình khá thích môn này
+1129,bạn có phải là một người lười vận động?,Thực sự thì mình đúng là người lười vận động
+1130,bạn có bị béo phì không?,một chút
+1131,bạn tên gì?,Mình tên Thiên <eos> còn bạn tên gì ?
+1132,Mình là Phú <eos> Bạn học ở đâu?,Tôn Đức Thắng bên Quận 7 <eos> Bạn biết trường mình không ?
+1133,Không mình không biết,Trường mình nằm ngay trên đường Nguyễn Hữu Thọ
+1134,À mình biết đường đó <eos> Mình sẽ để ý khi đi ngang qua đó,
+1135,bạn thích xem phim không ?,"cũng không hẳn, đôi khi mình có xem một vài bộ phim hot"
+1136,à vậy chắc bạn biết phim Doctor Strange đang nổi ?,Có mình vừa xem cùng người nhà hôm trước <eos> Công nhận phim hay với mãn nhãn
+1137,Đúng rồi mình thì chưa xem nhưng mà nghe bảo rất hay <eos> Nhưng mà bạn xem rồi mất rồi,Không sao mình nghe nói phim này xem lại vài lần sẽ thấy hay hơn
+1138,Ồ vậy được cuối tuần đi xem tiếp không ?,Ok chốt vậy nha
+1139,Mình hẹn tại rạp hay sang đón bạn nhỉ ?,"Mình hẹn nhau tại rạp đi, suất chiếu mấy giờ thì ổn ?"
+1140,"Xem suất 8h tối , ok không ?",8h nghe ok đó <eos> Nhưng mà mình nên kiểm tra xem còn chỗ không ?
+1141,Để mình kiểm tra trên web xem <eos> Chỗ vẫn có nhưng mà ngồi ở vị trí khá gần màn hình <eos> Xem sẽ không được thoải mái lắm <eos> Bạn thấy ok không ? Mình thì không sao,Mình ok ko vấn đề
+1142,Vậy tối 8h  gặp tại trước rạp nha <eos> Mình sẽ tới sớm lấy vé trước,Ok hẹn vậy nha
+1143,"Ê, mày chơi game mới ra mắt hôm qua chưa?","Chưa nữa, dạo này tao bận qua. Mà game gì thế?"
+1144,Game ba chú heo con và bầy cừu,Nghe hay đấy
+1145,Hay chứ bạn mình <eos> Nào rảnh vô làm sương sương vài ván nhé,"Ok bạn mình, mà game đó máy tao chơi được không?"
+1146,"Hmm, game không nặng lắm, chắc máy mày sẽ chơi được thôi",Chắc không đó bạn mình
+1147,Không <eos> Cấu hình máy mày như thế nào?,"Intel core i9, ram 128gb"
+1148,"Máy mạnh quá vậy bạn mình <eos> Mà tin buồn là không được nhé, nâng cấp máy lên đi","Ok, nào rảnh nâng"
+1149,Ok quá ta,"Um, tao có gì ngoài tiền đâu"
+1150,Nhìn vậy chứ ok quá ta <eos> Vậy nào nâng cấp nói tao nhé. Tao chỉ cho cài.,Ok bạn mình
+1151,"Ok bro, hẹn gặp lại nhé","Ok, hẹn gặp lại"
+1152,Cậu lấy giùm tớ cái áo khoác đi.,Đây nè. Cậu tính đi đâu vậy?
+1153,Tớ tính đi ra siêu thị. Cậu có cần mua gì không?,"Có, mua giùm tớ mấy cây bút với nhé."
+1154,"Nè, giúp tớ khiêng cái sofa này ra ngoài đi.","Tớ đang bận, cậu tự khiêng đi."
+1155,Một mình tớ làm sao khiêng nổi chứ.,"Cái sofa đó cũng đâu có nặng lắm đâu…Thôi được rồi, tớ sẽ ra khiêng giúp cậu."
+1156,"Tớ có việc phải về nhà gấp, cậu giúp tớ đưa cái này cho cô được không?",Được chứ. Cậu cứ đi đi.
+1157,Cảm ơn cậu nhiều nha.,Có gì đâu.
+1158,"Nè, hay bọn mình về đi. Đã trễ lắm rồi.",Nhưng lỡ lát nữa cậu ấy tới không thấy chúng ta thì sao?
+1159,"Đã trễ như vậy rồi, chắc cậu ấy không tới đâu.",Hay bọn mình cứ đợi thêm chút nữa đi.
+1160,Thôi được rồi. <eos> Cậu thấy cái đầm này thế nào?,"Hừm, hình như hơi sặc sỡ thì phải."
+1161,Vậy hả.,"Cậu thử cái đầm ở đằng kia đi, tớ thấy nó đẹp hơn đấy."
+1162,"Nè, sắp tới sinh nhật của Minh rồi đó. Tụi mình mua cái gì tặng cậu ấy đi.",Được đó. Hay là mua khăn tay đi.
+1163,Cậu ấy có nhiều khăn tay lắm rồi. Tớ nghĩ tụi mình nên tặng cho cậu ấy một món quà thật đặc biệt và độc đáo.,"Nè, hay là tụi mình làm bánh kem tặng cậu ấy đi."
+1164,Ý hay đó. Nhưng mà hai đứa mình đâu có biết làm bánh kem.,Thì mình cứ làm theo sách dạy nấu ăn là được thôi mà.
+1165,Cậu tính đăng ký ngành nào thế?,Tớ cũng chưa biết nữa.
+1166,Thế cậu giỏi cái gì?,"Tớ thậm chí còn không biết mình giỏi cái gì, dở cái gì nữa đây nè."
+1167,Điểm mạnh của em là gì?,Điểm mạnh của em là có thể làm việc độc lập và nói tiếng Anh tốt.
+1168,Vậy còn điểm yếu?,Điểm yếu duy nhất của em đó chính là thiếu tự tin. Em luôn cố gắng hết sức để cải thiện chỗ thiếu sót này của mình.
+1169,Cậu thích vẽ quá nhỉ. Lần nào gặp cậu cũng thấy cậu vẽ cả.,"Ừ, vẽ là sở thích và cũng là sở trường của tớ. Thế còn cậu, cậu có sở trường gì không?"
+1170,Không có.,Sao tớ nghe mọi người nói cậu giỏi nấu ăn lắm mà.
+1171,"Làm gì có chuyện đó chứ, tớ dở nấu ăn nhất luôn đó.",
+1172,Cậu đang làm gì thế?, Tớ đang chọn đồ để ngày mai đi phỏng vấn.
+1173,Đi phỏng vấn thì nên ăn mặc lịch sự. Hay là chọn bộ này đi.,"Được rồi, vậy thì ngày mai tớ sẽ mặc bộ này."
+1174,Chết rồi!,Sao vậy?
+1175,Tớ làm mất cây dù của chị rồi. Làm sao đây?,"Tớ thấy tốt hơn hết là cậu nên thú nhận với chị ấy đi, biết đâu chị ấy sẽ bỏ qua cho cậu."
+1176,Tớ biết rồi. <eos> Buồn ngủ quá đi.,Bộ hôm qua lại thức khuya nữa hả?
+1177,"Ừ, hôm qua tớ thức đến 2 giờ sáng để xem phim.","Là con gái thì đừng nên thức khuya quá, sẽ không tốt cho da đâu."
+1178,"Tớ biết rồi, kể từ giờ tớ sẽ cố gắng đi ngủ sớm.",
+1179,Sinh nhật vui vẻ nha!,Cảm ơn cậu. Có quà cho tớ không?
+1180,Đương nhiên là có rồi. Đây nè.,"Ôi, cảm ơn nhiều. Cái gì trong đây thế?"
+1181,"Cậu mở ra xem đi, bảo đảm cậu sẽ thích mê cho mà coi. <eos> Chúc mừng sinh nhật!",Cảm ơn nhé. Cứ tưởng là các cậu quên luôn rồi chứ.
+1182,Làm sao mà quên được ngày trọng đại này chứ!,"Nè nè, cậu mau ước đi."
+1183,"Xong rồi, nhập tiệc thôi!",Tặng cậu nè.
+1184,"Cảm ơn nhé. Cậu đến dự tiệc sinh nhật của tớ là được rồi, cần gì phải quà cáp.",Sinh nhật thì phải tặng quà chứ.
+1185,A lô.,Minh hả? Lan đây.
+1186,"À Lan, có chuyện gì không?",Tớ chỉ muốn gọi hỏi thăm cậu thôi. Cậu quen với chỗ ở mới chưa?
+1187,"Cũng quen rồi, chỉ có điều là ở đây mưa nắng thất thường lắm. Mới nãy trời còn đang nắng mà bây giờ đã mưa như trút nước rồi.",Mệt nhỉ.
+1188,Lại mưa nữa.,Trời mưa cả tháng nay rồi đó.
+1189,"Đành chịu thôi, đang là mùa mưa mà.","Mưa như vậy thì đi đâu được chứ, ở nhà cho rồi."
+1190,"Thôi chết, trời mưa rồi.","Làm sao đây, tớ không có mang theo dù."
+1191,Tớ cũng vậy. Đành đợi hết mưa rồi về vậy.,Rõ ràng dự báo thời tiết nói hôm nay sẽ không có mưa mà.
+1192,Sao hôm qua không đi học vậy?,Hôm qua tớ bị bệnh. Cậu cho tớ mượn vở chép bài nhé.
+1193,"Ừ. À phải, hôm qua cô đọc điểm kiểm tra 15 phút đó, cậu được 7 điểm.",Có 7 điểm thôi hả?
+1194,"7 điểm là cao rồi đó. Lớp mình cao nhất cũng chỉ được có 8 điểm thôi. <eos> Có ai xung phong trả lời câu này không? Không ai giơ tay hết, vậy cô gọi theo danh sách nhé. Bạn Nguyễn Văn Minh.","Dạ cô ơi, em không biết trả lời câu này"
+1195,"Được rồi, em ngồi xuống. Mời bạn Ngọc.","Dạ cô ơi, hôm nay bạn Ngọc vắng ạ."
+1196,Chào Lan!,"Ủa Ngọc, cậu đi đâu đây?"
+1197,Tớ đang định đi lên trường. Bữa giờ được nghỉ có đi đâu chơi không?,"Có đi đâu đâu, tớ chỉ ở nhà không à."
+1198,"Còn tớ thì mới từ dưới quê lên nè. À phải, ba mẹ tớ có gửi quà cho cậu đó, đây nè.","Ôi, cảm ơn nhé. Ba mẹ cậu vẫn khỏe chứ?"
+1199,"Khỏe, ba mẹ tớ còn bảo bữa nào dẫn cậu về quê chơi cho biết nữa đó.",Hay hè này đi luôn đi.
+1200,Được đó. <eos> Dạo này học được chứ?,"Ừ, cũng được. Có điều do sắp thi nên mấy bữa nay cũng hơi mệt một chút."
+1201,"Ê Trọng, Hôm qua ông có đi xem Doctor Strange không?","Không ông ơi, hôm qua tui bận làm bài"
+1202,"Tiếc thế, phim hay lắm ông ơi",Mốt tôi hoàn thành deadline rồi tui đi xem sau vậy
+1203,"Làm xong phải coi liền nha ông, phim kĩ xảo cuốn, nội dung hay nữa","Phải đi liền chứ, tui fan cứng Marvel mà <eos> Mà bên ông không có bài tập hay sao mà ông thảnh thơi thế?"
+1204,Tui hoàn thành xong hết deadline rồi mới đi được ấy <eos> May mà deadline trước ngày phim ra không là giờ tôi ngồi làm bài như ông rồi,"Ông may đấy, mà thôi giờ tôi đi làm bài tiếp đây, bye ông"
+1205,"Ok cố lên ông nhá, bye ông",
+1206,Lễ này mày có đi đâu không nhóc?,Bài tập cả đống đi đâu cha
+1207,Bài thì bài cũng phải nghỉ xả hơi chứ mày,Tới deadline không xong thì khóc chứ ở đó mà nghỉ xả hơi <eos> Mà mày có đi đâu không?
+1208,Tao đi Đà Lạt với gia đình,"Uầy sướng thế, tao thì bục mặt lo làm xong mấy cái bài giữa kì <eos> Mà sao mày rảnh mà đi vậy, không lo bài giữa kỳ à?"
+1209,"Lo gì bạn ơi, mấy anh em nhóm tao gánh hết","Vãi thật, lo học đi ông nội, làm bài mà rèn kỹ năng"
+1210,"Biết rồi biết rồi, về là tao nhờ bọn cùng nhóm giảng lại để tao làm tiếp mà","Ok ok, ráng lên bạn ơi, hè rồi quẫy sau"
+1211,Ê mày xem bộ anime mới ra chưa?,Bộ Spy x Family á hả?
+1212,"Ừa nó đó, bộ hài cực","Yeah, mà tao thích con bé tóc hồng ấy. Tên gì tao quên rồi nhỉ?"
+1213,"Sao thích mà cái tên cũng không nhớ nữa cha, con bé tên Anya <eos> Mà công nhận là con bé dễ thương thiệt, với giọng lồng tiếng quá đỉnh luôn bạn ơi",Thì đó nghe cái giọng mà tao tan chảy luôn
+1214,"Bà mẹ tác giả vẽ cũng đẹp nè, ông cha thì bao ngầu",Thì nhờ vậy bộ đó mới hot vậy đó
+1215,"Vừa hay vừa hài, tao dự đoán bộ này siêu phẩm mùa hè rồi","Đúng thật, công nhận. Bộ này kỳ này hè này nắm trùm rồi"
+1216,Trời cái thằng ngu này. Mày đánh kiểu gì thế?,Thông cảm bạn ơi. Tui mới chơi mà
+1217,Bởi vậy tao đã kêu mày đi support đi rồi mà. Cứ cố đi ad làm gì? <eos> Giờ mày thấy không? Cái bot nó nát bấy ra kìa <eos> Mày kéo cả team đi xuống theo mày rồi đó,"Thôi xin lỗi mà, bình tĩnh đi bạn. Tao bao nước cho nè uống vô cho bớt nóng"
+1218,"Tức thiệt chứ, ván sau mày đi support dùm tao nha","Vâng đại ca, em biết rồi"
+1219,Giờ lo tập trung di chuyển cho ra hồn đó <eos> Team nó mà bắt mày một lần nữa là ván này vứt luôn,"Dạ đại ca, em sẽ tập trung ạ"
+1220,"Dạo này đi học cả ngày, tối còn về học thêm. Tui đuối quá bà","Thấy cũng tội, mà có giải pháp mà ông <eos> Ông có quyền trốn học mà"
+1221,"Thôi bà ơi, xúi dại vừa thôi. Chỗ học thêm này vắng là gọi về phụ huynh đó","Gì căng thế, thế thì mệt ông rồi"
+1222,Bởi tui cũng muốn trốn một bữa lắm <eos> Mà nghĩ tới cảnh mẹ tui biết chuyện là tui về thông lỗ tai luôn,Mẹ ông gắt lắm hả. Ông cứ bảo mệt quá cho nghỉ một bữa thôi mà
+1223,Mẹ chửi chết chứ ở đó mà nghỉ một bữa. Một buổi học tận 100 ngàn đấy,"Gì đắt thế, bảo sao giáo viên chỗ ông nhiệt huyết quá"
+1224,"Chịu thôi, chỗ mẹ tui chọn mà","Haha, vậy thì cố lên ông nhá. Mua sữa uống đồ vô cho có sức học"
+1225,bạn tên gì?,Mình tên Lan Anh? <eos> còn bạn tên gì? 
+1226,Tên Phú <eos> Bạn còn đang đi học hay đi làm rồi?,mình vẫn còn đang đi học
+1227,bạn học năm mấy rồi?,mình học năm 4 rồi
+1228,vậy bạn ra trường trễ à?,ừ vì mình bị trễ tiến độ tiếng anh
+1229,Bạn có hay chơi thể thao không,Mình có hay chơi thể thao khi còn học cấp 3
+1230,bây giờ bạ không chơi môn gì nữa à?,mình bận học nên chỉ lâu lâu đi đá bóng với bạn <eos> bạn có chơi môn thể thao gi không?
+1231,mình có đi tập gym và đá bóng,bạn đá ở clb của trường hay ở ngoài 
+1232,mình đá ở clb của quận <eos> còn bạn thì sao?,mình chỉ hay đá với bạn bè cũ 
+1233,khi rảnh bạn thường làm gì?,mình thường đọc sách và nghe nhạc <eos> nếu muốn ra ngoài mình sẽ cùng bạn bè đi ăn uống <eos> còn bạn thì sao
+1234,mình hay chơi piano <eos> nếu bạn mình rãnh mình thường chơi cầu lông và bơi lội,bạn có hay bơi lội không
+1235,mình thường bơi 2 lần 1 tuần <eos> bạn có hay đi bơi không,mình không biết bơi nên rất hiếm khi đi bơi
+1236,bạn có hay đi du lịch không,mình rất ít khi đi du lịch <eos> mình thường đi vào dịp tết và hè <eos> còn bạn thì sao
+1237,"mình rất ít đi du lịch xa, còn đi gần thì mình cũng hay đi",bạn thường hay đi gần ở đâu
+1238,mình hay đi leo núi bà đen cắm trại và biển vũng tàu <eos> bạn đã đi leo núi bà đen cắm trại bao giờ chưa,"mình chưa đi bao giờ, vì nghe nói leo rất cực và mệt"
+1239,đợt tết vừa rồi mình tốn gần 7 tiếng mới lên đến đỉnh <eos> mặc dù mệt nhưng rất vui và đáng trãi nghiệm,bạn nên thử một lần xem sao
+1240,"nghe khá thú vị,nếu có thời gian rảnh mình sẽ đi thử",
+1241,cuối tuần bạn rãnh không?,tối thứ 7 thì mình rãnh <eos> sao vậy?
+1242,bạn muốn đi uống gì đó không?,"oke, mình cũng muốn rủ bạn đi đâu đó"
+1243,vậy cậu có muốn đi đâu không?,mình muốn đi uống gì đó nhẹ nhàng và riêng tư một chút <eos> bạn có biết nơi nào như vậy không
+1244,"mình biết một nơi, mình nghĩ bạn sẽ thích <eos> vậy mình hẹn cậu 7h nhé ?","oke, 7h qua đón mình đi nhé"
+1245,quê bạn ở đâu?,quê mình ở bình dương
+1246,vậy chắc là đi gần lắm phải không,từ thành phố chắc là đi hơn 1 tiếng <eos> cò bạn ở đâu?
+1247,"mình ở bến tre lận, khá xa",bạn đi mất bao lâu?
+1248,mình đi mất khoảng 3 tiếng lận,vậy chắc là bạn ít khi về quê lắm hả?
+1249,mình chỉ về khoảng 1 tháng 1 lần thôi,vậy bạn hay đi xe máy hay xe đò?
+1250,mình thường đi bằng xe máy vì mình bị say xe,
+1251,bạn tên gì?,Mình tên Anh <eos> còn bạn tên gì? 
+1252,mình tên Huy,Bạn học ở đâu?
+1253,mình học ở TDT,mình cũng học ở đấy
+1254,cuối tuần này bạn có rãnh hay không?,cuối tuần này mình rãnh
+1255,bạn có muốn đi ăn vào cuối tuần này hay không?,tất nhiên là muốn rồi
+1256,bạn thích ăn gì,ăn gì cũng được
+1257,có muốn mời thêm ai đi nữa không?,rủ thêm bạn chung phòng đi
+1258,cũng được này. <eos> mà ăn ở đâu mới được,qua Haidilao hay Gogi đi
+1259,Vậy cuối tuần này mình đi.,Okk
+1260,Bạn đã có người yêu chưa?,Mới chia tay luôn nè
+1261,bạn có đang thích ai khác không ?,"có, mình đang thích thầm 1 bạn."
+1262,bạn ấy trông như thế nào?,bạn ấy khá xinh
+1263,bạn ấy có học trường mình không?,bạn ấy bên khoa Mỹ Thuật Công Nghiệp
+1264,Thế cua đến đâu rồi?,Có kết bạn rồi nhưng không biết nhắn tin thế nào.
+1265,"hmm, cần hướng dẫn cách cua không ?",mình không =)))
+1266,sở thích của bạn là gì?,"Mình thích game, xem phim."
+1267,vậy chắc bạn biết đến liên minh nhỉ?,mình chơi thường xuyên luôn
+1268,"mình thì chơi chơi game bắn súng, bạn có chơi không?",có mình cũng có chơi csgo
+1269,bạn thường chơi với ai?,mình hay chơi với bạn bè.
+1270,bạn hay xem thể loại phim nào?,mình hay xem phim kinh dị với khoa học viễn tưởng
+1271,mình hay xem phim tình cảm hơn,bạn có muốn xem thử phim tình cảm tâm lý không?
+1272,bạn có thích đi du lịch không?,cũng hứng thú đấy
+1273,bạn có thường đi du lịch không?,mình đều đi 2 lần 1 năm
+1274,bạn thường đi du lịch với ai?,mình thường đi với gia đình hoặc bạn bè.
+1275,sắp tới kỳ nghỉ hè bạn có muốn đi đâu đó không?,mình có tính đi 1 số nơi
+1276,"mình tính đi đà lạt, bạn có muốn đi cùng không?",được đấy
+1277,bạn có cần tư vấn gì không ạ?,mình đang cần 1 con laptop gaming
+1278,bạn muốn cấu hình thế nào,đủ mạnh để chiến mọi loại game
+1279,để mình xem hàng trong kho <eos> bạn thích hãng nào ,mình thích Acer
+1280,đây là vài mẫu đang thịnh hành hiện nay bạn có thể xem qua.,ok bạn
+1281,bạn hiện tại đang ở đâu vậy?,mình thuê trọ ở quận 7
+1282,giá ở đó bao nhiêu,khoảng tầm 3tr mỗi tháng
+1283,bạn ở với ai?,mình ở với bạn cùng quê
+1284,chỗ bạn ở có đầy đủ nội thất chứ,mình tự trang bị đầy đủ mọi thứ 
+1285,xung quang trọ bạn như thế nào?,chỉ có chợ và chung cư căn hộ
+1286,Bạn tên gì ?,Mình tên Minh
+1287,Còn mình tên là Vũ,Bạn là học ngành gì ?
+1288,Mình học Kĩ thuật Xây dựng <eos> Còn bạn ?,Mình thì học Luật
+1289,"Giỏi nhỉ, học Luật chắc vất vả lắm","Cũng không khó lắm, ngành bạn học có khó không ?"
+1290,Bình thường thôi bạn,
+1291,"Ê Tiến, hôm qua có xem trận Chelsea đá không ?","Có chứ, mà đá chán quá, vậy mà cũng thua được"
+1292,Đá kiểu gì mà cứ như mơ ngủ ấy,"Ừ đúng rồi, toàn để đội kia tấn công dồn dập"
+1293,Chắc phải thuê huấn luyện viên mới rồi <eos> À hôm nào đi đá bóng không ?,"Ok, rủ thêm tụi kia đi"
+1294,"Chủ nhật đá nhé, chỉ rảnh có mỗi hôm đó","Được đấy, sáng hay chiều ?"
+1295,Chiều đi cho mát <eos> Đá ở đâu đây nhỉ ?,"Qua sân Phú Thọ đi, ở đấy rẻ lắm"
+1296,"Thảo ơi, ngày mai đóng tiền quỹ lớp nhé <eos> Tổ mình còn một mình cậu chưa đóng đấy","Chết thật, mình quên mất <eos> Để mai mình mang nhé"
+1297,"Ok, không sao đâu vẫn còn thời hạn mà",Mình đóng bao nhiêu ấy nhỉ ?
+1298,Quỹ lớp 100 nghìn nhé,Sao đắt thế ?
+1299,Vì tháng này lớp mình định tổ chức liên hoan cuối năm mà,"À ra là vậy, mình biết rồi, cảm ơn nhé"
+1300,hôm nay ông có đi học ca 1 không?,"có ông ơi, tui mà nghỉ nữa là bị cấm thi đó."
+1301,hình như tui cũng hết buổi nghỉ rồi.,vậy thì dậy đi học thôi ông. <eos> mà hôm nay hình như thầy vào trễ thì phải.
+1302,"may quá, hôm nay đường chỗ tui kẹt xe rồi","ừ, ráng vào lớp nhanh đi ông"
+1303,hôm nay lớp mình học phòng nào ấy nhỉ?,phòng C401
+1304,ok cảm ơn ông nha,
+1305,Thứ 7 này đi chơi bóng bàn với tụi tui không ông?,Thứ 7 tui hơi bận buổi sáng. <eos>  mấy ông định chơi vào buổi nào?
+1306,À tụi tui hẹn nhau vào buổi chiều ông ơi.,Buổi chiều thì tui có thể đi với mấy ông được đó.
+1307,"ngon, thế hẹn ông 3h chiều ở nhà thi đấu Nguyễn Du nhó.","oke luôn ông ei <eos> mà nói trước là tui chơi pro vjp lắm đếy, có ai đủ trình chơi với tui khum?"
+1308,"tụi tui trong tuyển bóng bàn Thành phố, đủ trình với ông chưa?","ax, mấy sếp tha iem :((("
+1309,"ê mày, cuối tuần này đi Hồ Thị Kỷ không?",Hồ Thị Kỷ có gì mà mày rủ tao đi?
+1310,"trời, mày kh biết Hồ Thị Kỷ là phố đi bộ và ăn vặt lớn gần nhất cái Sài Gòn này hả?","a đu, thật á, thế mà nhỏ lớn giờ tao ko biết lun@@"
+1311,"mày lúa thế, đi, tao dắt mày đi giải ngố.","oke luôn, mà đồ ăn ở đó đắt lắm không?"
+1312,nếu mày không ăn những món sang chảnh thì cầm 2 lít đi được ròi.,là đi ăn vặt thôi đó hả?
+1313,"ừa đồ ăn vặt, nhưng mà ăn nhiều nó sẽ no, cứ yên tâm mà cháy phố đê=)))","được luôn bạn ơi thế thì còn chờ gì nữa, lên đường thoii."
+1314,Việc học sao rồi?,Ổn rồi.
+1315,Có gì hot không?,"Ngoài có năm, sáu điểm đâu đây nọ…"
+1316,Ừa,Có vài cái môn tao không hiểu luôn
+1317,Môn nào?,Vì nó toàn nói Đảng và nhà nước buồi này qua buổi 
+1318,À. Những điều đo đọc tài liệu nhiều vào; Thi cử lo về vài điểm quan trọng thôi.,
+1319,Làm tiền được chưa?,"Ừa, đây"
+1320,"Huh, na ná nhau",Nói thẳng đây: Có vài phần công ty tôi thấy… Sai.
+1321,Vậy thì sao? Tôi biết ông giám đốc mà.,Hả?
+1322,"Nghe lời tao đi, ông ta lắng nghe kỹ lắm, và thường làm việc cùng và hiểu các đồng nghiệp.",Đó làm ổng làm nhân viên!
+1323,"Đúng rồi, ông ta là nhân viên cũ nhất trong công ty, ngay từ khi nó thành lập mà!",À ha
+1324,Mai mốt chỉ tao ráp máy tính nha,"Được, có gì nói tao."
+1325,Việc lắp CPU thì nghe khó.,"Đúng, mà tay chắc là được rồi, và cầm nó bên cạnh và không dụng bên trên hay dưới"
+1326,Còn bo này thì sao?,"Cái đó không vào được, nè cái này mới tốt."
+1327,À,Còn gì không?
+1328,Không có.,
+1329,Where did you park?,I parked in basement G. <eos> Did you have breakfast today?
+1330,No.,Did you do your yesterday's homework?
+1331,"Yes, I did. <eos> Why didn't you go to school yesterday?",I was sick.
+1332,Will you attend tomorrow's class?,"Yep, I think I'll attend tomorrow's class."
+1333,Where is your roomate?,He went back to his hometown.
+1334,When will he return to the city?,Probably next week. <eos> Do you want to go out for today's lunch?
+1335,"Yeah, let's.",Where do you want to eat?
+1336,I like the broken rice shop nearby. There food is cheap and delicious.,Good idea.
+1337,It's an ugly day today.,I know. I think it may rain.
+1338,"It's the middle of summer, it shouldn't rain today.",That would be weird.
+1339,"Yeah, especially since it's ninety degrees outside.","Yeah, especially since it's ninety degrees outside."
+1340,"Yes, it would be.",I really wish it wasn't so hot every day.
+1341,Me too. I can't wait until winter.,"I like winter too, but sometimes it gets too cold."
+1342,I'd rather be cold than hot.,Me too.
+1343,How is everything going with you?,Great. You?
+1344,Pretty good.,Good for you.
+1345,When did you start going to PCC?,This is my second year. How about you?
+1346,I only got here this year.,You like it so far?
+1347,It's OK.,I can tell you don't really like it.
+1348,It'll get better after I finish my General Education.,I understand what you mean.
+1349,I need to find somewhere to park.,Off campus or on campus?
+1350,I need to find a space on campus.,Why don't you park in the parking structure for students?
+1351,Where is the parking structure at?,It's on the west side of the campus.
+1352,Do you know if the parking structure is full or not?,It was empty last time I went up there.
+1353,How long ago was that?,I went up there early this morning.
+1354,Do you think it'll be full now?,It might be. You'll have to go see for yourself.
+1355,bạn tên gì?,Tôi tên Nguyên <eos> còn bạn tên gì? 
+1356,Tớ tên Nghĩa <eos> Bạn học ở đâu?,Tôi học ở trường đại học Tôn Đức Thắng <eos> Còn bạn học ở đâu?
+1357,Đại học FPT Cần Thơ  <eos> Quê quán bạn ở đâu ?,Quê Tôi ở Gia Lai <eos> Quê bạn ở đâu vậy?
+1358,Quê tớ ở Trà Vinh <eos> Cậu có bạn gái rồi chứ ?,Chưa nha <eos> Trà Vinh thuộc miền tây phải không?
+1359,Thuộc miền Trung bạn nhé nhớ về học lại lịch sử,ai lại nói như thế chứ.
+1360,Cậu vẫn còn chơi liên minh huyền thoại chứ?,"Tớ nghỉ lâu rồi cậu ạ, cộng đồng không được thân thiện lắm <eos> Thế cậu còn chứ ? và cậu có thấy game chán đi nhiều không ?"
+1361,Tớ vẫn còn chơi nhưng chỉ để giải trí thôi. <eos> So với trước đây thì game không còn hấp dẫn nữa,"Cậu nên thử qua tựa game mới ra gần đây khá nổi ấy  <eos> Tên nó là Free Fire Max, cậu nghe qua chưa ? "
+1362,Game đó mới ra hả? <eos> Tớ chưa nghe qua bao giờ cả,"Có thể nói là game hay nhất thế giới hiện tại, người người đều chơi. <eos> Thể loại sinh tồn của nó có khiến cậu hứng thú ? "
+1363,nghe có vẻ hấp dẫn đấy <eos> mà thể loại sinh tồn không hợp gu của tớ lắm <eos> cậu biết game nào hay thuộc thể loại kinh dị không?,Play together bạn nhé bao kinh dị <eos> Không sợ không làm gì cả
+1364,"Uầy, nghe hấp dẫn thế, tớ phải thử tải về chơi mới được <eos> mà thì trường game dạo này nhìn hơi chán nhỉ? Game mới ra kém chất lượng quá",Do cậu không tìm tới mấy game indie ấy. <eos> Thế đã nghe qua terraria bao h chưa ?
+1365,Đó là gì vậy?,Game 2D thôi phát triển từ nhưng năm 2010s nhưng cực hay 
+1366,Vậy tớ phải thử mới được,Cậu làm ván game với tớ nhé ?
+1367,Ngay và luôn thôi,
+1368,"Chào bạn, lâu quá không gặp",Chào Nguyên nhé lâu thật mới gặp lại  <eos> Nghe nói cậu mới đi chơi nước ngoài mà mình ko nhớ là nước nào 
+1369,"À, mình mới đi chơi ở Nhật Bản, đó là một chuyến đi tuyệt vời đấy <eos> Mình nghe nói cậu cũng mới đi Mỹ về, chuyến đi có vui không?",Không nghĩ là cậu biết luôn ấy <eos> Rất vui cậu ạ cao ốc khắp mọi nơi nên giờ cổ mình mõi lắm rồi  <eos> Còn cậu thì sao Nhật chắc đẹp và hiện đại lắm ?
+1370,Cậu miêu tả sinh động thật đấy <eos> Nhật bản là đất nước rất văn minh và hiện đại nếu có cơ hội cậu cũng nên đi một chuyến,Thế thì mình phải lên kế hoạch cho kỳ nghỉ sau với điểm đến là Nhật Bản mới được <eos> Còn cậu thì sau sắp đến lễ tiếp rồi ấy đi nước ngoài tiếp hay sao ?
+1371,"Lễ này mình tính đi Đà Lạt ấy,  còn cậu có dự tính gì chưa?",Chắc đảo Phú Quốc cậu ạ mình nhớ biển ở đấy quá
+1372,"Mình chưa được đi Phú Quốc lần nào cả, nếu có cơ hội thì phải đến một lần cho biết","Cậu nên đến đấy một lần cho biết cậu ạ, biển lẫn san hô đều rất đẹp "
+1373,"nghe thích vậy, cậu có đi lặn nghắm san hô lần nào chưa?","Rồi nha, cảm giác rất là thích, cậu k thể tưởng tượng cảm giác đó tuyệt vời thế nào đâu"
+1374,Nhưng mình lại không biết bơi nên không thể thử được,Có lẽ cậu nên tham gia một lớp học bơi đấy
+1375,Nghe nói honda vừa ra phiên bản cải tiến của xe winner 150 v3 đấy,"Vậy à, xe có những cải tiến gì không?"
+1376,"Theo mình được biết thì không có sự thay đổi đáng kể về mặt động cơ, chủ yếu là cải tiến về mặt ngoại hình, hãng đã rất biết lắng nghe người dùng và cải tiến nhiều điểm","Ồ, vậy chắc xe sẽ bán rất chạy nhỉ?"
+1377,Mình cũng nghĩ vậy đó.,Giá chắc cũng không rẻ nhỉ?
+1378,Theo như hãng công bố thì đối với phiên bản thường giá xe nằm trong khoảng trên dưới 45 triệu,Với giá này thì mình chắc cũng phải mua một chiếc thôi <eos> Mà không biết các hãng cạnh tranh có ra mắt mẫu xe nào mới không nhỉ
+1379,Theo mình được biết thì các hãng yamaha và suzuki vẫn chưa ra mắt sản phẩm của họ những cũng sẽ sớm ra mắt thôi thôi,
+1380,Chào cậu lâu quá không gặp,Chào cậu 
+1381,Không biết cậu đã có bóng hồng nào sánh vai chưa?,"Vẫn chưa, chán lắm cậu ạ"
+1382,"Chán thế, hơn 20 tuổi đầu rồi mà chưa có mảnh tình nào vắt vai à",Thế cậu đã có chưa mà nói tớ?
+1383,chưa luôn,Thế mà bày đặt nói người ta
+1384,"Hihi, trêu cậu tí thôi mà <eos> Mà cậu đã có đối tượng nào chưa?",Đối tượng thì có những vẫn chưa tấn công
+1385,Sao vậy?,Tại chưa có cơ hội 
+1386,Cơ hội là do mình chủ động tạo ra chứ sao lại chờ cô hội <eos> Có cần mình làm quân sư cho không,"Thôi đi ông tướng, bản thân thì chưa có người yêu mà bày đặt làm quân sư cho người khác"
+1387,"Đấy là do tớ chưa muốn có người yêu thôi, cậu đã bao giờ nghe câu huyến luyện viên không bao giờ ra sân chưa","Thôi cậu không cần phải nổ, chừng nào cậu kiếm được người yêu đi rồi nói tớ"
+1388,cậu không tin tớ à?  <eos> Tớ mối cho rất nhiều cặp thành đôi rồi đấy,Có xạo không đó?
+1389,Thật 100% <eos> Mà đều chia tay hết rồi,"Tưởng thế nào, cũng là chém gió thôi"
+1390,chao xìn,hallo
+1391,bạn tên là gì?,tui tên là Đậu
+1392,"chào Đậu, tui là Hưng.",nay Hưng định làm gì?
+1393,"tui định về nhà sau buổi học, cũng chưa có kế hoạch gì lắm","ỏ, tâm trạng cậu hôm nay có tốt không?"
+1394,"tui thấy tạm ổn, có thể làm việc tốt. <eos> Cậu thì sao?","tui chưa ghi bản kiểm điểm với tường trình nữa, cậu thấy có ổn khum :>"
+1395,"nghe có vẻ nghiêm trọng, hôm nay là hạn cuối nộp 2 thứ đó nhỉ? <eos> cậu cần giúp đỡ gì không?",có phiền không nếu tui nhờ cậu giúp đỡ?
+1396,"không, tui thấy mình khá rảnh hôm nay",dị lát nữa cậu giúp tui nhé <eos> Cảm ơn cậu nhiều 
+1397,hong co' gi`,
+1398,Hello (/^▽^)/,"ayo, what's up fen"
+1399,Dạo này cột sống của cậu có ổn khom,nó hơi cong vẹo một chút. <eos> Nhưng chắc là nó vẫn còn trụ được ;;-;; <eos> Nghe nói cậu học ngành KHMT ở trường T. Có khó lắm khum?
+1400,Tui thấy tui sắp đờ i đi  <eos> mai cúp học đi net không?,đi nhe UwU
+1401,ok luong <eos> cổng 7?,nẩu <eos> Cổng 5 đi
+1402,kê <eos> tuần này có bài tập gì không nhỉ?,cậu đoán xem :3
+1403,@@  <eos> không biết tức là không có,thế thì khum có :> <eos> Vì toi cũng khum nhớ nữa :>
+1404,:Đ <eos> okay vậy nghỉ thoai,thế mai gặp ở cổng 5 nhé <eos> Bái baiii
+1405,"kê, không gặp không về",
+1406,nghe nói ở rạp đang chiếu nhiều phim lắm.  <eos> Cậu có gợi ý phim nào hay khum?,có phim bác sĩ Lạ mới ra ấy <eos> định đi coi phim huh?
+1407,đúng dị <eos> Đã lâu khum ra rạp rùi <eos> phim đấy là về gì nhỉ?,ông bác sĩ biết phép thuật đánh nhau với 1 phù thủy bị khùm <eos> thấy review hay lắm
+1408,chà <eos> Thế thì tui phải đi coi thử mới được <eos> Cậu có định đi coi khum?,chắc là có <eos> từ lúc lên đại học tới giờ tui chưa đi coi phim lại <eos> chắc đây là dịp tốt để khai ví đầu năm
+1409,nếu dị thì mong rằng phim sẽ thật hoành tráng <eos> mà nhắc đến phép thuật thì tui mới đọc được một tin. <eos> Cậu có muốn nghe khum?,Có
+1410,7 phần của bộ phim đình đám Harry Potter sẽ được chiếu lại trong hè này đó <eos> Nghe là muốn cắm rễ ở rạp rùi :>,nice  <eos> tui chưa coi phần nào ở rạp cả <eos> với lại quên gần hết nội dung roi <eos> đi coi lại cho nhớ z
+1411,nếu vậy thì hè này của cậu dự là sẽ rất hấp dẫn đấy UwU <eos> nếu may mắn thì có thể gặp được tui cắm ở rạp nữa ,oke <eos> cảm ơn vì mẩu tin nhé
+1412,thế nhé <eos> Giờ tui có việc rùi <eos> Hẹn gặp cậu sau,okay 
+1413,Cảm ơn vì đã giới thiệu phim cho tui nhe,"không có gì, gặp lại sau"
+1414,cậu có thích nuôi con gì không?,có á <eos> Tui là một người yêu động vật mà  <eos> Nếu được chọn thì tui sẽ thích nuôi mèo nhất :3
+1415,tui cũng thích mèo <eos> nhưng tui sẽ nuôi con gì thể hiện tính cách của mình <eos> nhím chẳng hạn,ồ nghe thú vị thế <eos> Nhưng tui không hiểu sao lại là nhím??
+1416,không phải ai cũng có thể chiều chuộng nó cả ;) <eos> nó là của riêng tui và chỉ tui mới được thân thiết với nó,chà  <eos> Kiến thức mới đã được tiếp thu :3 <eos> Tui thích mèo lắm vì bọn đó cứ thiểu năng thế nào ý :> <eos> có thể chọc tui vui cả ngày é :3 
+1417,nghe được đấy <eos> thế bây giờ cậu có đang nuôi con gì không?,giờ thì chỉ có nuôi hamster thui  <eos> mà tui mang qua nhà bác tui luôn rùi <eos> Vì mẹ tui không thích có lông thú trong nhà <eos> cậu có nuôi gì khum?
+1418,giờ thì tui đang khá nghèo <eos> không thể lo cho bản thân nổi nữa <eos> mà hồi trước thì nhà tui có nuôi mèo và chó vài lần,ỏ :3 <eos> Có kỉ niệm nào đáng nhớ khum?
+1419,cũng lâu rồi nên tui cũng không nhớ tụi nó giờ ra sao nữa <eos> tụi nó cũng khá dễ thương,thế sau này cậu có định nuôi lại khum?
+1420,tất nhiên rồi <eos> khi tui đi làm và ra ở riêng thì tất nhiên tui sẽ tìm kiếm cho mình vài người bạn nhỏ,tui cũng sẽ như thế đó <eos> mong là những người bạn nhỏ của tui và cậu có dịp gặp nhau nhe <eos> giờ thì tui phải đi học rùi ròi <eos> Gặp lại cậu sau nhé :3
+1421,ok baibai,
+1422,mấy nay về nhà có vui khum?,không <eos> ở nhà được cái ngủ sướng thôi <eos> tui muốn quay lại thành phố làm việc hơn
+1423,tuần sau là một tuần khá nhiều việc lớn đó <eos> Dự là sẽ lại mệt mỏi đây <eos> vậy mà cậu còn muốn quay lại làm việc -.-,tui thấy bản thân đã kém năng suất đi nhiều so với năm ngoái <eos> nên tui cần bỏ ra nhiều thời gian hơn để làm việc trong năm nay <eos> cậu thì sao?
+1424,dạo này tui cũng thấy mình lười hơn rồi  <eos> Tui sẽ sắp xếp lại thời gian  <eos> dành ra cuối tuần để đi đạp xe <eos> Sau đó sẽ đi kiếm việc làm  lại <eos> cũng sắp tới hè rùi,chà nghe được đấy nhờ <eos> chắc tui cũng cần chỉnh sửa thời khóa biểu một chút <eos> sửa soạn bản thân cho mùa hè và năm 3 sắp tới
+1425,đúng nhỉ? <eos> Năm sau cậu bắt đầu vào chuyên ngành rùi <eos> Sẽ khó và vất vả hơn <eos> Nhưng vẫn phải ăn uống đầy đủ và giữ sức khỏe nhó :>,"okay <eos> hè này đi tập gym z <eos> coder ""tay to"" <eos> tuần sau đi thư viện học không?"
+1426,đi chứ ,"okay, ngày nào lên trường thì mình camp thư viện hôm ấy <eos> được không?"
+1427,okeee~ <eos> Quyết định thế đi,
+1428,Bạn tên gì,Mình ten Duy <eos> Còn bạn tên gì? 
+1429,Nam <eos> Bạn học ở đâu?,Mình học tại trường Đại học Tôn Đức Thắng ở quận 7 <eos> Bạn học ở trường nào?
+1430,Mình học tại trường Đại học Huflit ở quận 10 <eos> Học phí trường Đại học Tôn Đức Thắng mắc không bạn?,"Tùy chất lượng học, thì giá sẽ tăng giảm khác nhau. "
+1431,Thế trường bạn có mấy chất lượng học?,"Gồm 3 chất lượng đó là: tiêu chuẩn, chất lượng cao 50%, chất lượng cao 100% và chất lượng luân chuyển"
+1432,Học phí của chất lượng tiêu chuẩn là bao nhiêu?,Học phí chất lượng tiêu chuẩn giao động khoảng từ 20-25 triệu một học kỳ
+1433,Học phí của chất lượng cao 50% là bao nhiêu?,Học phí chất lượng cao 50% giao động khoảng từ 25-30 triệu một học kỳ
+1434,Học phí của chất lượng cao 100% là bao nhiêu?,Học phí chất lượng cao 10% giao động khoảng từ 30-35 triệu một học kỳ
+1435,Dạo này khỏe không mày,Không bệnh tật gì nhưng mà không khỏe lắm mày ạ
+1436,Sao thế?,"Dạo này tao thức đêm chạy deadline nhiều, cảm thấy không khỏe cho lắm"
+1437,Giữ gìn sức khỏe mày ạ,Ừ còn mày thì sao ?
+1438,"Dạo này tao chịu khó tập thể thao với giảm cân, nên khỏe hơn hẳn","Thích nhỉ, chắc tao cũng phải chơi môn thể thao nào đó thôi."
+1439,Bạn tên gì?,Mình tên Long? <eos> còn bạn tên gì? 
+1440,Nam <eos> Bạn học ở đâu?,Tôi học ở đây
+1441,Tôi cũng thế,"Ồ, trùng hợp thế! <eos> Tôi học khoa CNTT <eos> Bạn học khoa nào?"
+1442,Tôi cũng khoa CNTT! ,
+1443,"Chào, tôi là Thu, rất vui được gặp bạn","Xin chào, bạn thế nào rồi?"
+1444,"Ổn, cảm ơn nhé, mọi thứ thế nào?","Khá tốt, tôi tên là Steve Hill. <eos> Tên bạn là gì?"
+1445,"Tôi là Thu, Nguyễn Thị Thu.",Rất vui được gặp bạn.
+1446,Tôi cũng rất vui khi được gặp bạn.,"Thôi, đã đến giờ vào lớp, hẹn gặp bạn sau"
+1447,"Bình tĩnh, hẹn gặp lại bạn sớm!",
+1448,Lâu lắm rồi không gặp bạn,Ừ. Đã rất lâu rồi
+1449,Rất vui được gặp lại,Tôi cũng vậy
+1450,Bạn chẳng thay đổi chút nào,"Bạn cũng vậy, không có gì thay đổi"
+1451,Gia đình bạn thế nào rồi?,"Cảm ơn, mọi người đều ổn cả"
+1452,"Rất vui khi nghe vậy. Cậu giữ gìn sức khỏe nhé, Hà","Cậu cũng vậy, Huy"
+1453,Trán nóng thể <eos> Đang cảm thấy không khỏe à?,Thấy mệt. Tao nghĩ tao bị sốt rồi
+1454,Mày nên đi gặp bác sĩ đi.,Tao muốn nằm nghỉ một lát đã.
+1455,Mày trông không ổn lắm,"Ổn mà, nếu không khá hơn, tao sẽ đi gặp bác sĩ."
+1456,Nói với tao nếu mày không thấy không ổn.,Ok
+1457,"Hi, bạn tên gì?",Mình tên Vũ <eos> còn bạn tên gì? 
+1458,"Mình tên Khánh <eos> Ủa, bạn cũng học ở tôn đức thắng hả?","Đúng rồi, mình học khoa cntt, còn bạn?"
+1459,Mình học khoa Luật,Nghe nói học luật để lách luật đúng không bạn :))
+1460,Không bạn =))  <eos> Mình học để sau này mình làm cho nhà nước bạn ạ,
+1461,"Eh, áo đẹp vậy bạn !!",Đương nhiên !! Áo bố mới mua đếy
+1462,Ngon. Cái này của H&M hả?,"Đúng rồi. T mới mua ở H&M quận 1 á <eos> Hên lắm mày, mua đúng ngay đợt nó đang sale 30% kk"
+1463,Ohh. Dị m mua cái này bao nhiêu vậy?,"Cái này giá gốc cũng cao, mà tao mua còn 300k thôi <eos> Uầy, xịn dậy bạn tui!!"
+1464,Kkk mua thì tranh thủ đi nhá <eos> Còn nhiều loại để m chọn lắm. Thoải mái chú em,Oke brother
+1465,What's up bro. Qua có coi trận MU với Liver ko :))) <eos> MU của cậu lại diễn hài rồi =))),Thôi t xịnnn luôn <eos> Không dám coi
+1466,Trận đấy t thấy MU đá như kiểu cho xong trận vậy á,"Ừaa, hiệp 1 kiểm soát bóng có 24%, không sút được trái nào nữa thì chịu"
+1467,Qua hiệp 2 có trái Sancho dắt vô đẹp vậy mà dắt điểm hỏng,Thôi oải lắm rồi. Có mỗi a CR7 của t là vẫn oke <eos> Còn mấy ông khác thì chịu
+1468,Chúc MU của bạn năm sau tái thiết nhá =)),
+1469,alo đang ở đâu đấy bro ?,Tao đang ở nhà.
+1470,Vậy thì làm tí nghiện nào ?,Thôi tao sợ nghiện lắm.
+1471,"Làm tí thôi mà, không nghiện đâu mà lo.","Hmmmm. Dzo, chiến đê. <eos> Đây rồi cặp bài trùng, song sát hủy diệt rank Việt."
+1472,Accept game kìa Vũ.  <eos> Đây rồi mày slot đầu pick lock daxua cho tao Vũ.  ,"Được không đó bro, tao đang trong chuỗi :))"
+1473,Mày cứ tin tưởng tao. Uy tín.,
+1474,Lâu rồi mày có đi thể dục thể thao không Vũ.,Dạo này lười quá tao ở nhà suốt à.
+1475,Uầy vậy anh em mình có nên đi thể dục thể thao nâng cao sức khỏe không nhỉ.,Vậy mày định rủ tao đi tập gì.
+1476,Tập đua xe không người anh em. <eos> Tao thấy bộ môn đó khá được ưa chuộng và còn ngầu nữa.,Mày xem các dân tổ đua xe nhiều quá nên ảo rồi à :)))
+1477,Đùa tí thôi tao tính rủ mày đi học võ bro.,Được nè. Tao khá thích taekwondo nhe.
+1478,Oke học taekwondo có vẻ ổn đó. <eos> Tao sẽ học lên đai đen để về sút vào mấy thằng nhóc tao ghét.,Oke mày là nhất :)) <eos> Biết nơi dạy chưa ?
+1479,"Tao biết chỗ rồi, bây giờ tao đăng kí cho mày luôn nhe.",Oke luôn bạn ơi
